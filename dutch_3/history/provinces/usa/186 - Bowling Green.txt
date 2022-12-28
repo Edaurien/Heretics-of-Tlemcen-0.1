@@ -1,0 +1,6 @@
+owner=NET
+controller=NET
+add_core=UIL
+add_core=VRM
+trade_goods = cattle
+life_rating = 35

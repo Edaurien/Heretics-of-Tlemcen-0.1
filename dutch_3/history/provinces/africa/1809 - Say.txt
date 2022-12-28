@@ -1,0 +1,8 @@
+owner = SGH
+controller = SGH
+add_core = SGH
+add_core = DND
+add_core = MAS
+trade_goods = fruit
+terrain = semidesert
+life_rating = 35

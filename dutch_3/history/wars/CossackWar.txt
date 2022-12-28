@@ -1,0 +1,26 @@
+name = "Cossack Revolt"
+
+1820.10.2 = {
+    add_attacker = TUR
+    add_defender = DON
+
+
+    war_goal = {
+        casus_belli = make_puppet
+        actor = TUR
+        receiver = DON
+    }
+
+
+    war_goal = {
+        casus_belli = become_independent
+        actor = DON
+        receiver = TUR
+    }
+
+}
+
+1820.6.6 = {
+    rem_attacker = TUR
+    rem_defender = DON
+}

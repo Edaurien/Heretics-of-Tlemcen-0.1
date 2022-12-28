@@ -1,0 +1,147 @@
+
+
+vassal=
+{
+	first="AFG"
+	second="BLC"
+	start_date="1781.5.13"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="AFG"
+	second="SIN"
+	start_date="1781.5.13"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="MEX"
+	second="UCA"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+
+
+vassal=
+{
+	first="IBR"
+	second="FEZ"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IBR"
+	second="MRK"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IBR"
+	second="SOS"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="IBR"
+	second="TFL"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="IBR"
+	second="MRK"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="IBR"
+	second="TLC"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="IBR"
+	second="CNS"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+}
+
+
+
+
+
+vassal=
+{
+	first="NET"
+	second="BRT"
+	start_date="1502.7.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="HSC"
+	start_date="1608.11.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="WHA"
+	start_date="1608.11.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="BRG"
+	start_date="1737.6.29"
+	end_date="1936.1.1"
+}
+
+
+
+vassal=
+{
+	first="KHA"
+	second="KOR"
+	start_date="1812.4.14"
+	end_date="1936.1.1"
+}
+
+
+
+
+
+vassal=
+{
+	first="BAV"
+	second="SLZ"
+	start_date="1759.3.18"
+	end_date="1936.1.1"
+	
+}
+
+
+
+

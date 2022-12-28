@@ -1,0 +1,104 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 413
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 356
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 54
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 54
+	}
+
+}

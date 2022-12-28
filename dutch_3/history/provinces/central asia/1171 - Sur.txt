@@ -1,0 +1,6 @@
+owner = ORM
+controller = ORM
+add_core = ORM
+add_core = OMA
+trade_goods = fruit
+life_rating = 35

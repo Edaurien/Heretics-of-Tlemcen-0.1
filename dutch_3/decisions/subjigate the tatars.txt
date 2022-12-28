@@ -1,0 +1,47 @@
+
+political_decisions = {
+	subjigate_tatars = {
+		picture = form_the_ikhwan
+
+		potential = {
+			OR = { 
+				tag = MUS
+				tag = RUS
+			}
+			civilized = yes	
+			NOT = { has_country_flag = tatar_subjigator }
+			GRH = { exists = yes }
+			war = no
+		}
+		
+		allow = {
+			GRH = { exists = yes }
+			OR = { 
+				AND = {
+					
+					is_independant = yes
+					civilized = yes	
+					war = no
+					prestige = 20
+					GRH = {
+						civilized = no
+					}	
+					owns = 1020
+					owns = 1019
+					NOT = {
+						truce_with = GRH
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = 26510 
+			
+			set_country_flag = tatar_subjigator
+		}
+			
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+}

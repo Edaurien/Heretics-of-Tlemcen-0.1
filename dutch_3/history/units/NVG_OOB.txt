@@ -1,0 +1,47 @@
+#Sphere of Influence
+
+#Leaders
+
+#Armies
+
+navy = {
+	name="1st Fleet"
+	location=2731
+	ship = {
+		name="2nd Montpellier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Jelgava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Christiania Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kolberg Man'o'war"
+		type=manowar
+	}
+
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stettin Frigate"
+		type=frigate
+	}
+}

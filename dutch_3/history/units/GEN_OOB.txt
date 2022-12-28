@@ -1,0 +1,54 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2761
+	ship = {
+		name="Nembo"
+		type=frigate
+	}
+	ship = {
+		name="Turbine"
+		type=frigate
+	}
+	ship = {
+		name="Aquilone"
+		type=frigate
+	}
+	ship = {
+		name="Espero"
+		type=frigate
+	}
+		ship = {
+		name="3rd Ferrara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lucca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Savona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ferrara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+}

@@ -1,0 +1,5 @@
+owner=AKH
+controller=AKH
+
+trade_goods = timber
+life_rating = 35

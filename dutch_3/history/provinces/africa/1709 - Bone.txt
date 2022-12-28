@@ -1,0 +1,7 @@
+owner=CNS
+controller=CNS
+add_core=ALD
+add_core=TUN
+add_core=CNS
+trade_goods = cotton
+life_rating = 35

@@ -1,0 +1,109 @@
+2237 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 9301
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 409
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 157
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3394
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 59
+	}
+
+}

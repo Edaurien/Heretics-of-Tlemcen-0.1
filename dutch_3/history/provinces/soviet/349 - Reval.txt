@@ -1,0 +1,10 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = FIN
+
+add_core=LIV
+add_core=EST
+trade_goods = grain
+life_rating = 40
+naval_base = 2

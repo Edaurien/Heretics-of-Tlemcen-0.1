@@ -1,0 +1,6 @@
+owner=CPG
+controller=CPG
+add_core=CPG
+add_core=FRA
+trade_goods = grain
+life_rating = 31

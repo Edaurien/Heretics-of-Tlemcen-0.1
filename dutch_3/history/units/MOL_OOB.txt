@@ -1,0 +1,90 @@
+#Sphere of Influence
+WAL = {
+	value = 100
+	level = 2
+	military_access = yes
+}
+
+#Leaders
+
+leader = {
+	name="Cosmin Chirila"
+	date="1816.9.19"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+leader = {
+	name="Vlad Morariu"
+	date="1808.8.25"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ionatan Hanganu"
+	date="1816.4.22"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+
+army = {
+	name="1st Army"
+	location=673
+	regiment = {
+		name="1st Giresun cavalry"
+		type=cavalry
+		home=671
+	}
+	
+
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=670
+	}
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=676
+	}
+	regiment = {
+		name="1st Giresun artillery"
+		type=artillery
+		home=677
+	}
+	
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=673
+	}
+	
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=670
+	}
+	regiment = {
+		name="1st Giresun Artillery"
+		type=artillery
+		home=672
+	}
+	regiment = {
+		name="1st Giresun Infantry"
+		type=cavalry
+		home=663
+	}
+	regiment = {
+		name="1st Giresun Artillery"
+		type=artillery
+		home=672
+	}
+	
+	
+}

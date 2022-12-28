@@ -1,0 +1,5 @@
+owner=NHY
+controller=NHY
+add_core=NHY
+trade_goods = coal
+life_rating = 35

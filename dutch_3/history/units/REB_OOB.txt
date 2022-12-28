@@ -1,0 +1,660 @@
+leader = {
+	name="Marijus II"
+	date="1807.10.9"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Michal Soltyk"
+	date="1808.11.22"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Olbracht Kwilecki"
+	date="1811.8.17"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Svitrigaila Drzewicki"
+	date="1812.1.19"
+	type=land
+	personality="audacious"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Jan Kaczynski"
+	date="1814.6.19"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Sylwester Gembicki "
+	date="1817.7.24"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Skirgaila Puzyna"
+	date="1817.12.19"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+
+army = {
+	name="2nd Army"
+	location=956
+	
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=711
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=955
+	regiment = {
+	name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="4th Posen Artillery"
+		type=artillery
+		home=715
+	}
+}
+
+
+
+army = {
+	name="2nd Army"
+	location=702
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="4th Posen Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=711
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=703
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=703
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=703
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=716
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=703
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=703
+	}
+
+	
+}
+
+army = {
+	name="2nd Army"
+	location=936
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=707
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=707
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=707
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=360
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=939
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=947
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+
+	
+}
+
+army = {
+	name="2nd Army"
+	location=362
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=362
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=361
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=360
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=365
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=365
+	}
+	
+}
+
+
+army = {
+	name="2nd Army"
+	location=363
+	
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=363
+	}
+}
+army = {
+	name="2nd Army"
+	location=938
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=938
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=938
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=939
+	}
+	
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=939
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=957
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=937
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=937
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=711
+	}
+	
+	
+}
+
+army = {
+	name="2nd Army"
+	location=951
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=705
+	}
+	
+}
+
+army = {
+	name="2nd Army"
+	location=364
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=362
+	}
+	regiment = {
+		name="4th Posen Artillery"
+		type=artillery
+		home=362
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=362
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=362
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=365
+	}
+}
+

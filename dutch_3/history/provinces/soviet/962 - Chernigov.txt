@@ -1,0 +1,13 @@
+owner=DON
+controller=DON
+add_core=DON
+add_core=UKR
+
+trade_goods = grain
+life_rating = 35
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

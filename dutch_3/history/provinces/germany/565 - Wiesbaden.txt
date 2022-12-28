@@ -1,0 +1,8 @@
+owner=WES
+controller=WES
+add_core=WES
+add_core=NAS
+add_core=GER
+
+trade_goods = sulphur
+life_rating = 40

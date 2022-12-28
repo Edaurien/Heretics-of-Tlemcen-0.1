@@ -1,0 +1,6 @@
+owner=TPA
+controller=TPA
+
+add_core=TPA
+trade_goods = tropical_wood
+life_rating = 31

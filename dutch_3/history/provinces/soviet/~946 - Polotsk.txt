@@ -1,0 +1,9 @@
+owner=SMK
+controller=SMK
+add_core=SMK
+add_core=LIT
+add_core=BYE
+
+add_core=PLT
+trade_goods = wool
+life_rating = 35

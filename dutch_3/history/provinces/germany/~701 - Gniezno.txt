@@ -1,0 +1,8 @@
+owner=TEU
+controller=TEU
+
+add_core=TEU
+
+add_core=WSF
+trade_goods = grain
+life_rating = 40

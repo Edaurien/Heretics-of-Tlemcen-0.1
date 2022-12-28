@@ -1,0 +1,10 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=PER
+add_core=KHI
+
+add_core=TKS
+trade_goods = fish
+life_rating = 15
+terrain = desert

@@ -1,0 +1,8 @@
+owner = HAU
+controller = HAU
+add_core = HAU
+add_core = SGH
+add_core = SOK
+trade_goods = wool
+terrain = semidesert
+life_rating = 35

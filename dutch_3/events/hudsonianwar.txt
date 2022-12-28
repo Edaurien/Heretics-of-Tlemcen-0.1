@@ -1,0 +1,232 @@
+# Hudsonia Independence?
+country_event = {
+
+    id = 1555552
+
+    title = "EVTNAME155550"
+    desc = "EVTDESC155550"
+    picture = "Budapest"
+
+    trigger = {
+        war = no
+		year = 1848
+        NOT = {
+            exists = VRM
+            has_country_flag = no_hudsonia_independence
+            primary_culture = nieuwereld
+        }
+        is_possible_vassal = VRM
+		owns = 232
+    }
+	
+	fire_only_once = yes
+
+    option = {
+        name = "EVT155550OPTA"
+		set_country_flag = no_hudsonia_independence
+        any_pop = {
+            limit = {
+                location = { is_core = VRM }
+                has_pop_culture = nieuwereld
+            }
+            militancy = 3
+        }
+        any_owned = {
+            limit = { culture = nieuwereld }
+            add_province_modifier = {
+                name = nationalist_agitation
+                duration = 365
+            }
+        }
+        ai_chance = {
+            factor = 95
+            modifier = {
+                factor = 1.75
+                government = absolute_monarchy
+            }
+            modifier = {
+                factor = 1.25
+                is_greater_power = yes
+            }
+            modifier = {
+                factor = 0.5
+                government = democracy
+            }
+            modifier = {
+                factor = 1.5
+                war_policy = jingoism
+            }
+            modifier = {
+                factor = 1.25
+                war_policy = pro_military
+            }
+            modifier = {
+                factor = 0.75
+                war_policy = anti_military
+            }
+            modifier = {
+                factor = 0.5
+                war_policy = pacifism
+            }
+            modifier = {
+                factor = 0.8
+                militancy = 3
+            }
+            modifier = {
+                factor = 0.8
+                militancy = 5
+            }
+        }
+    }
+    option = {
+        name = "EVT155550OPTB"
+        badboy = -5
+        prestige = -25
+        release_vassal = VRM
+        VRM = {
+            any_pop = {
+                limit = { has_pop_culture = nieuwereld }
+                militancy = -8
+            }
+        }
+        any_pop = {
+            limit = { has_pop_culture = nieuwereld }
+            militancy = -3
+        }
+        any_pop = {
+            limit = {
+                NOT = { has_pop_culture = nieuwereld }
+                is_primary_culture = no
+            }
+            militancy = 1
+        }
+        relation = {
+            who = VRM
+            value = 50
+        }
+        diplomatic_influence = {
+            who = VRM
+            value = 200
+        }
+        ai_chance = {
+            factor = 5
+            modifier = {
+                factor = 0
+                OR = {
+                    government = proletarian_dictatorship
+                    government = bourgeois_dictatorship
+                    government = fascist_dictatorship
+                    government = presidential_dictatorship
+                }
+            }
+            modifier = {
+                factor = 0.25
+                government = absolute_monarchy
+            }
+            modifier = {
+                factor = 1.5
+                government = democracy
+            }
+            modifier = {
+                factor = 0.5
+                war_policy = jingoism
+            }
+            modifier = {
+                factor = 0.75
+                war_policy = pro_military
+            }
+            modifier = {
+                factor = 1.25
+                war_policy = anti_military
+            }
+            modifier = {
+                factor = 1.5
+                war_policy = pacifism
+            }
+            modifier = {
+                factor = 0.5
+                is_greater_power = yes
+            }
+            modifier = {
+                factor = 1.2
+                militancy = 3
+            }
+            modifier = {
+                factor = 1.2
+                militancy = 5
+            }
+
+        }
+    }
+}
+
+
+
+country_event = {
+	
+	id = 1555556
+	
+	title = "EVTNAME155551"
+    desc = "EVTDESC155551"
+    picture = "Budapest"
+	trigger = {
+        war = no
+		has_country_flag = no_hudsonia_independence
+        NOT = {
+            exists = VRM
+            
+            primary_culture = nieuwereld
+        }
+        is_possible_vassal = VRM
+		any_state = {
+            any_owned_province = { is_core = VRM }
+            average_militancy = 8
+        }
+    }
+	
+	mean_time_to_happen = {
+        months = 48
+    }
+	
+	option = {
+		name = "EVT155551OPTA"
+		any_owned = {
+			limit = { is_core = VRM }
+            secede_province = VRM
+        }
+		war = {
+			target = VRM
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+        }
+	}
+	option = {
+		name = "EVT155551OPTB"
+		
+		any_owned = {
+			limit = { is_core = VRM }
+            secede_province = VRM
+        }
+		
+		
+		
+		war = {
+			target = VRM
+			attacker_goal = {
+				casus_belli = conquest_any
+			}
+			defender_goal = {
+				casus_belli = status_quo
+			}
+        }
+		change_tag_no_core_switch = VRM
+		ai_chance = {
+            factor = 0
+        }
+	}
+}
+	

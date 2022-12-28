@@ -1,0 +1,102 @@
+2240 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 10800
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 93
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1691
+	}
+
+}

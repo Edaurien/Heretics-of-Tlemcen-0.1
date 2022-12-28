@@ -1,0 +1,369 @@
+1102 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1064
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 515
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 36
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 16747
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1103 = {
+	soldiers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 760
+	}
+
+	artisans=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 543
+	}
+
+	clergymen=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 12025
+	}
+
+}
+1104 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1873
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 3405
+	}
+
+}
+1105 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 981
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = sunni
+		size= 2452
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = sunni
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 25
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = sunni
+		size= 294
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = sunni
+		size= 13617
+	}
+
+}
+1106 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 293
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 1320
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 12680
+	}
+
+}
+1107 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 784
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 12340
+	}
+
+}

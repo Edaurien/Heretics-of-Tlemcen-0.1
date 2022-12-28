@@ -1,0 +1,9 @@
+owner=BLC
+controller=BLC
+add_core=BLC
+add_core=PER
+
+trade_goods = fish
+life_rating = 31
+terrain = mountain
+fort = 1

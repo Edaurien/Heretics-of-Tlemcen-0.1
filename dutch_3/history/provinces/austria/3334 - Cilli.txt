@@ -1,0 +1,8 @@
+owner=CIL
+controller=CIL
+add_core=GER
+add_core=YUG
+add_core=SLO
+add_core=CIL
+trade_goods = coal
+life_rating = 35

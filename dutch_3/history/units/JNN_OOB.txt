@@ -1,0 +1,131 @@
+#Sphere of Influence
+
+
+#Leaders
+leader = {
+	name="Daoula Machel"
+	date="1674.11.4"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yadega Mondlane"
+	date="1696.11.26"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tyefolo Mbazia"
+	date="1700.11.4"
+	type=sea
+	personality="persistant"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=1795
+	regiment = {
+		name="1st Bandiagara Irregulars"
+		type=irregular
+		home=1804
+	}
+	regiment = {
+		name="1st Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="1st Kintampo Irregulars"
+		type=irregular
+		home=1911
+	}
+	regiment = {
+		name="2nd Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="1st Tamale Artillery"
+		type=artillery
+		home=1913
+	}
+	regiment = {
+		name="3rd Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1909
+	ship = {
+		name="1st Dakar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mboul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rosso Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1899
+	regiment = {
+		name="1st Jenne Irregulars"
+		type=irregular
+		home=1802
+	}
+	regiment = {
+		name="2nd Bandiagara Irregulars"
+		type=irregular
+		home=1804
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2921
+	ship = {
+		name="1st Dakar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rosso Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1785
+	ship = {
+		name="1st Rosso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dakar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mboul Clipper Transport"
+		type=clipper_transport
+	}
+}
+

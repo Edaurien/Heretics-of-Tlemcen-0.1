@@ -1,0 +1,598 @@
+#Sphere of Influence
+
+
+ECU = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+
+HAI = {
+	value = 154
+	influence_value = 26
+	level = 4
+}
+
+ITA = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+
+MEX = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+
+PRG = {
+	value = 202
+	military_access = yes
+	influence_value = 88
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Diego II"
+	date="1803.10.19"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Hernando de Aragón"
+	date="1792.7.20"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Domingo Campomanes"
+	date="1799.1.11"
+	type=sea
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Claudio Orellana"
+	date="1806.1.8"
+	type=sea
+	personality="persistant"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Francisco de Paula Fonseca"
+	date="1813.9.9"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Sebastián Palafox"
+	date="1817.10.6"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+
+
+army = {
+	name="3rd Army"
+	location=2278
+	regiment = {
+		name="1st Marabá Infantry"
+		type=infantry
+		home=2413
+	}
+	regiment = {
+		name="2nd Salvador da Bahia Infantry"
+		type=infantry
+		home=2436
+	}
+	regiment = {
+		name="2nd Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="1st Macapá Artillery"
+		type=artillery
+		home=2415
+	}
+	regiment = {
+		name="1st Oriximina Artillery"
+		type=artillery
+		home=2408
+	}
+	regiment = {
+		name="1st Salvador da Bahia Artillery"
+		type=artillery
+		home=2436
+	}
+	regiment = {
+		name="1st Curitiba Artillery"
+		type=artillery
+		home=2457
+	}
+	regiment = {
+		name="1st São Paulo Artillery"
+		type=artillery
+		home=2450
+	}
+	regiment = {
+		name="1st Paraíba Artillery"
+		type=artillery
+		home=2428
+	}
+}
+
+army = {
+	name="20th Army"
+	location=2417
+	regiment = {
+		name="1st Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Juazeiro Infantry"
+		type=infantry
+		home=2437
+	}
+	regiment = {
+		name="1st Paraná Infantry"
+		type=infantry
+		home=2360
+	}
+	regiment = {
+		name="1st Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st Fortaleza Infantry"
+		type=infantry
+		home=2429
+	}
+	regiment = {
+		name="1st Recife Infantry"
+		type=infantry
+		home=2432
+	}
+	regiment = {
+		name="2nd Curitiba Artillery"
+		type=artillery
+		home=2457
+	}
+	regiment = {
+		name="3rd Salvador da Bahia Infantry"
+		type=infantry
+		home=2436
+	}
+	regiment = {
+		name="1st Belém Artillery"
+		type=artillery
+		home=2410
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2463
+	regiment = {
+		name="1st Vila do Poti Infantry"
+		type=infantry
+		home=2426
+	}
+	regiment = {
+		name="2nd Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st São Luís Infantry"
+		type=infantry
+		home=2424
+	}
+	regiment = {
+		name="1st Maceió Infantry"
+		type=infantry
+		home=2434
+	}
+	regiment = {
+		name="1st Vila do Barra Infantry"
+		type=infantry
+		home=2438
+	}
+	regiment = {
+		name="1st Santo Tomás Artillery"
+		type=artillery
+		home=2358
+	}
+	regiment = {
+		name="2nd São Paulo Artillery"
+		type=artillery
+		home=2450
+	}
+	regiment = {
+		name="1st Natal Artillery"
+		type=artillery
+		home=2431
+	}
+	regiment = {
+		name="1st Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2983
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vila do Poti Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2440
+	regiment = {
+		name="1st La Serena Infantry"
+		type=infantry
+		home=2323
+	}
+	regiment = {
+		name="1st Montevideo Infantry"
+		type=infantry
+		home=2344
+	}
+	regiment = {
+		name="1st Campinas Infantry"
+		type=infantry
+		home=2452
+	}
+	regiment = {
+		name="2nd Vila do Barra Infantry"
+		type=infantry
+		home=2438
+	}
+	regiment = {
+		name="1st Passo Fundo Infantry"
+		type=infantry
+		home=2465
+	}
+	regiment = {
+		name="1st Vitória da Conquista Artillery"
+		type=artillery
+		home=2440
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="1st Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2440
+	regiment = {
+		name="1st La Serena Infantry"
+		type=infantry
+		home=2402
+	}
+	regiment = {
+		name="1st Montevideo Infantry"
+		type=infantry
+		home=2402
+	}
+	regiment = {
+		name="1st Campinas Infantry"
+		type=infantry
+		home=2600
+	}
+	regiment = {
+		name="2nd Vila do Barra Infantry"
+		type=infantry
+		home=2410
+	}
+	regiment = {
+		name="1st Passo Fundo Infantry"
+		type=infantry
+		home=2410
+	}
+	regiment = {
+		name="1st Vitória da Conquista Artillery"
+		type=artillery
+		home=2424
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
+		home=2423
+	}
+	regiment = {
+		name="1st Juazeiro Artillery"
+		type=artillery
+		home=2424
+	}
+}
+
+
+navy = {
+	name="12th Fleet"
+	location=2986
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+	ship = {
+		name="Julio De Noronha"
+		type=frigate
+	}
+	ship = {
+		name="Niterói"
+		type=frigate
+	}
+	ship = {
+		name="1st Belém Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2432
+	ship = {
+		name="Primeiro De Março"
+		type=manowar
+	}
+	ship = {
+		name="Paraíba"
+		type=manowar
+	}
+	ship = {
+		name="Guanabara"
+		type=manowar
+	}
+	ship = {
+		name="Trajano"
+		type=manowar
+	}
+	ship = {
+		name="Vital De Oliveira"
+		type=manowar
+	}
+	ship = {
+		name="Sergipe"
+		type=manowar
+	}
+	ship = {
+		name="Paraná"
+		type=manowar
+	}
+	ship = {
+		name="Greenhalgh"
+		type=manowar
+	}
+	ship = {
+		name="Macapá"
+		type=manowar
+	}
+	ship = {
+		name="1st Belém Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Recife Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Recife Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Paraíba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Belém Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2970
+	ship = {
+		name="Uniao"
+		type=frigate
+	}
+	ship = {
+		name="Belém"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2995
+	ship = {
+		name="Vigia"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fortaleza Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2451
+	ship = {
+		name="1st Rio de Janeiro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Maceió Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vila do Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aracaju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Porto Seguro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vila do Poti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brazilian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bône Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Recife Clipper Transport"
+		type=clipper_transport
+	}
+}
+

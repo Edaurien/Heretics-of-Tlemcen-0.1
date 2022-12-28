@@ -1,0 +1,11 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+add_core=APA
+
+
+add_core=NAH
+trade_goods = cattle
+life_rating = 35
+terrain = new_world_semidesert
+colonial=2

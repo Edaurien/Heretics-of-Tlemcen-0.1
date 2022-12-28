@@ -1,0 +1,401 @@
+#Sphere of Influence
+ALS = {
+	value = 225
+	influence_value = 43
+	level = 4
+}
+
+
+
+FLR = {
+	value = -5
+	level = 2
+}
+FRA = {
+	value = 244
+	influence_value = 48
+	level = 4
+}
+
+MEC = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+
+X11 = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+
+
+#Leaders
+leader = {
+	name="Håkon I de Neufville"
+	date="1802.6.25"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Sigvard Åkerhielm"
+	date="1788.10.18"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Adolf Skram"
+	date="1797.1.13"
+	type=sea
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Karl Gustav Thomsen"
+	date="1808.11.14"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2587
+	ship = {
+		name="Carl XIII"
+		type=manowar
+	}
+	ship = {
+		name="Karl XIV Johan"
+		type=manowar
+	}
+	ship = {
+		name="Prins Oscar"
+		type=manowar
+	}
+	ship = {
+		name="Gustav den Store"
+		type=manowar
+	}
+	ship = {
+		name="Stockholm"
+		type=manowar
+	}
+	ship = {
+		name="Försiktigheten"
+		type=manowar
+	}
+	ship = {
+		name="Tapperheten"
+		type=manowar
+	}
+	ship = {
+		name="Kung Adolph Fredric"
+		type=manowar
+	}
+	ship = {
+		name="Henrik"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=983
+	ship = {
+		name="1st Hammerfest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Scandinavian Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="5th Army"
+	location=307
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="2nd St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Turku Infantry"
+		type=infantry
+		home=345
+	}
+}
+
+army = {
+	name="1st Army"
+	location=211
+	regiment = {
+		name="1st Greenville Infantry"
+		type=infantry
+		home=207
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2954
+	ship = {
+		name="Packa"
+		type=frigate
+	}
+	ship = {
+		name="Svarta Örn"
+		type=frigate
+	}
+	ship = {
+		name="Jarramas"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=310
+	regiment = {
+		name="1st Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="1st Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=315
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=313
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+        name= "2nd Reval Cuirassiers"
+        type = cuirassier
+        home = 310
+    }
+	regiment = {
+        name= "2nd Reval Cuirassiers"
+        type = cuirassier
+        home = 312
+    }
+}
+
+army = {
+	name="4th Army"
+	location=334
+	regiment = {
+		name="1st Karlskrona Artillery"
+		type=artillery
+		home=333
+	}
+	regiment = {
+		name="1st Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=373
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+        name= "2nd Reval Cuirassiers"
+        type = cuirassier
+        home = 369
+    }
+	regiment = {
+        name= "2nd Reval Cuirassiers"
+        type = cuirassier
+        home = 528
+    }
+}
+
+army = {
+	name="10th Army"
+	location=322
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=335
+	}
+	regiment = {
+		name="1st Alesund Infantry"
+		type=infantry
+		home=308
+	}
+	regiment = {
+		name="2nd Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="1st Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="1st Esbjerg Infantry"
+		type=infantry
+		home=2557
+	}
+	regiment = {
+		name="2nd Copenhagen Artillery"
+		type=artillery
+		home=372
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=322
+	}
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=326
+	}
+}
+
+army = {
+	name="13th Army"
+	location=528
+	regiment = {
+		name="1st Bodo Infantry"
+		type=infantry
+		home=306
+	}
+	regiment = {
+		name="1st Flensburg Infantry"
+		type=infantry
+		home=370
+	}
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="2nd Karlskrona Infantry"
+		type=infantry
+		home=335
+	}
+	regiment = {
+		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="1st Copenhagen Artillery"
+		type=artillery
+		home=372
+	}
+	regiment = {
+		name="3rd Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="4th Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="2nd Flensburg Infantry"
+		type=infantry
+		home=370
+	}
+	regiment = {
+		name="1st Ribe Artillery"
+		type=artillery
+		home=368
+	}
+}
+
+
+army = {
+	name="1st Army"
+	location=344
+	regiment = {
+		name="1st Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="1st Vaasa Infantry"
+		type=infantry
+		home=346
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2706
+	ship = {
+		name="Uusimaa"
+		type=frigate
+	}
+	ship = {
+		name="Per Brahe"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=343
+	ship = {
+		name="Väinämöinen"
+		type=frigate
+	}
+	ship = {
+		name="Ilmarinen"
+		type=frigate
+	}
+	ship = {
+		name="Joukahainen"
+		type=frigate
+	}
+	ship = {
+		name="Birger Jarl"
+		type=frigate
+	}
+	ship = {
+		name="Tapio"
+		type=frigate
+	}
+}

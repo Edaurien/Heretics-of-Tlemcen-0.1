@@ -1,0 +1,7 @@
+owner=X16
+controller=X16
+add_core=X16
+add_core=GER
+add_core=ITA
+trade_goods = grain
+life_rating = 35

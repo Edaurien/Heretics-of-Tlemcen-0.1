@@ -1,0 +1,7 @@
+owner = ORM
+controller = ORM
+add_core = ORM
+add_core = ABU
+trade_goods = fish
+life_rating = 31
+terrain = semidesert

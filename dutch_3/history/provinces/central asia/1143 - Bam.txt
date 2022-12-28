@@ -1,0 +1,9 @@
+owner = ORM
+controller = ORM
+add_core = ORM
+add_core=PER
+add_core=BLC
+
+trade_goods = cotton
+life_rating = 35
+fort = 1

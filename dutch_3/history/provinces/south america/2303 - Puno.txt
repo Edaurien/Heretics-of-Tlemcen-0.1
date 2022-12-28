@@ -1,0 +1,7 @@
+owner=PBC
+controller=PBC
+add_core=PBC
+add_core=CSU
+
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,56 @@
+political_decisions = {
+
+    embrace_croats = {
+		picture = map_balkans
+        potential = {
+            OR = {
+                tag = HUN
+            }
+			NOT = {
+				accepted_culture = croat
+			}
+        }
+
+        allow = {
+            war = no
+            owns = 781
+			nationalism_n_imperialism = 1
+			
+		}
+
+        effect = {
+			add_accepted_culture = croat
+		}
+
+		
+	}
+}
+
+political_decisions = {
+
+    embrace_slovak = {
+		picture = map_balkans
+        potential = {
+            OR = {
+                tag = HUN
+            }
+			NOT = {
+				accepted_culture = slovak
+			}
+        }
+
+        allow = {
+            war = no
+            owns = 633
+			nationalism_n_imperialism = 1
+			
+		}
+
+        effect = {
+			add_accepted_culture = slovak
+		}
+
+		
+	}
+}
+

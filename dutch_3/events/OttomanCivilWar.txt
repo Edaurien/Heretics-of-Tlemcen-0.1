@@ -1,0 +1,433 @@
+#hungary intervenes in the balkans
+country_event = {
+	id = 165452
+	title = EVTNAME165452
+	desc = EVTDESC165452
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	trigger = { 
+		year = 1821
+		month = 1
+		tag = HUN
+		TUR = {
+			war_with = WAL
+		}
+		TUR = {
+			war_with = MOL
+		}
+
+
+
+
+	}
+	
+	option = { 
+		name = EVTOPTA165452
+		any_pop = {
+            limit = { has_pop_culture = hungarian }
+            militancy = 6
+        }
+		prestige = -5
+		badboy = -5
+		ai_chance = { factor = 1 }
+		
+    }
+	option = { 
+		name = EVTOPTB165452
+		prestige = 10
+		TUR = { country_event = 165453 }
+		ai_chance = { factor = 99 }
+
+		
+    }
+
+}
+
+#ottoman response 
+
+country_event = {
+	id = 165453
+	title = EVTNAME165453
+	desc = EVTDESC165453
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		set_global_flag = hun_tur_war_has_happened
+	}
+	
+	option = { 
+		name = EVTOPTA165453
+		prestige = -50
+		end_war = WAL
+		end_war = MOL
+		HUN = { create_vassal = WAL }
+		HUN = { create_vassal = MOL }
+		ai_chance = { factor = 1 }
+		
+		
+    }
+	option = { 
+		name = EVTOPTB165453
+		prestige = 10
+		HUN = {
+			war = {
+				target = TUR
+				attacker_goal = { casus_belli = put_down_tur }
+				defender_goal = { casus_belli = put_down_hun }
+				call_ally = no
+			}
+		}
+		ai_chance = { factor = 99 }
+		
+		
+
+		
+    }
+
+}
+
+#take land from wallachia 
+country_event = {
+	id = 165454
+	title = EVTNAME165454
+	desc = EVTDESC165454
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	
+	
+	
+
+	trigger = { 
+		tag = TUR
+
+		is_our_vassal = WAL
+		OR = {
+			674 = {
+				owned_by = WAL
+			}
+			675 = {
+				owned_by = WAL
+			}
+		}
+
+	}
+
+
+	option = { 
+		name = EVTOPTA165454
+		prestige = 10
+		675 = {
+			secede_province = TUR
+		}
+		674 = {
+			secede_province = TUR
+		}
+		
+    }
+}
+#take land from moldavia 
+country_event = {
+	id = 165455
+	title = EVTNAME165455
+	desc = EVTDESC165455
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	
+
+	trigger = { 
+		tag = TUR
+		is_our_vassal = MOL
+		OR = {
+			678 = {
+				owned_by = MOL
+			}
+		}
+
+	}
+
+
+	option = { 
+		name = EVTOPTA165455
+		prestige = 10
+		678 = {
+			secede_province = TUR
+		}
+		
+    }
+}
+#peace with hungary
+country_event = {
+	id = 165456
+	title = EVTNAME165456
+	desc = EVTDESC165456
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+
+
+
+
+	option = { 
+		name = EVTOPTA165456
+		prestige = 5
+		badboy = -5
+		ai_chance = { factor = 0 }
+		
+    }
+	option = { 
+		name = EVTOPTB165456
+		prestige = -10
+		badboy = 15
+		HUN = { country_event = 165458 }
+		ai_chance = { factor = 95}
+
+		
+    }
+	option = { 
+		name = EVTOPTC165456
+		prestige = -15
+		badboy = 25
+		HUN = { country_event = 165457 }
+		ai_chance = { factor = 5}
+		
+		
+
+	}
+}
+
+country_event = {
+	id = 165457
+	title = EVTNAME165457
+	desc = EVTDESC165457
+	picture = ottoman_dissolution
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = { 
+		name = EVTOPTA165457
+		any_owned = {
+			limit = {
+				OR = {
+					region = AUS_652
+					region = AUS_654
+					region = AUS_657
+				}
+				is_core = SIE
+			}
+			
+			secede_province = SIE
+		}
+		TUR = { create_vassal = SIE }
+		TUR = {
+			relation = { who = SIE value = -200 }
+			diplomatic_influence = { who = SIE value = -400 }
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					region = AUS_771
+					region = AUS_777
+					region = AUS_2538
+					region = AUS_780
+					region = AUS_736
+				}
+			}
+			secede_province = TUR
+		}
+
+
+	}
+}
+
+country_event = {
+	id = 165458
+	title = EVTNAME165458
+	desc = EVTDESC165458
+	picture = ottoman_dissolution
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA165458
+		any_owned = {
+			limit = {
+				OR = {
+					region = AUS_771
+					region = AUS_777
+					region = AUS_2538
+					region = AUS_780
+					region = AUS_736
+				}
+			}
+			secede_province = TUR
+		}
+
+
+	}
+}
+
+
+#peace with turkey
+country_event = {
+	id = 165459
+	title = EVTNAME165459
+	desc = EVTDESC165459
+	picture = ottoman_dissolution
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+
+
+
+
+	option = { 
+		name = EVTOPTA165459
+		prestige = 5
+		badboy = -5
+		TUR = {
+			end_war = WAL
+		}
+		TUR = {
+			end_war = MOL
+		}
+		ai_chance = { factor = 0}
+		
+
+		
+    }
+	option = { 
+		name = EVTOPTB165459
+		prestige = -5
+		badboy = 6
+		TUR_788 = { add_core = HUN }
+		
+		TUR = { country_event = 165460 }
+		
+		TUR = {
+			end_war = WAL
+		}
+		TUR = {
+			end_war = MOL
+		}
+		ai_chance = { factor = 5}
+		
+		
+	}
+		
+	option = { 
+		name = EVTOPTC165459
+		prestige = -10
+		badboy = 18
+		TUR_788 = { add_core = HUN }
+		SER_794 = { add_core = HUN }
+		TUR_803 = { add_core = HUN }
+		MON_2582 = { add_core = HUN }
+		
+		TUR = { country_event = 165461 }
+		TUR = {
+			end_war = WAL
+		}
+		TUR = {
+			end_war = MOL
+		}
+		ai_chance = { factor = 95 }
+
+		
+    }
+	
+}
+
+country_event = {
+	id = 165460
+	title = EVTNAME165460
+	desc = EVTDESC165460
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA165460
+		any_owned = {
+			limit = {
+				OR = {
+					region = TUR_788
+				}
+			}
+			secede_province = HUN
+		}
+
+
+	}
+}
+
+country_event = {
+	id = 165461
+	title = EVTNAME165461
+	desc = EVTDESC165461
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA165461
+		any_owned = {
+			limit = {
+				OR = {
+					region = TUR_788
+					region = SER_794
+					region = TUR_803
+					region = MON_2582
+				}
+			}
+			secede_province = HUN
+		}
+
+
+	}
+}
+
+country_event = {
+	id = 165462
+	title = EVTNAME165462
+	desc = EVTDESC165462
+	fire_only_once = yes
+	
+	trigger = {
+		NOT = {
+			year = 1848
+		}
+		
+		ROM = {
+            exists = yes
+            is_vassal = no
+        }
+		tag = HUN
+	}
+	
+	option = {
+		name = EVTOPTA165462
+		HUN = {
+			relation = { who = ROM value = -200 }
+			diplomatic_influence = { who = ROM value = -400 }
+		}
+		any_pop = {
+            limit = { has_pop_culture = romanian }
+            militancy = 8
+        }
+		badboy = 10
+		war = {
+			target = ROM
+			attacker_goal = { casus_belli = conquest_any }
+			
+			call_ally = no
+		}
+
+	}
+}
+

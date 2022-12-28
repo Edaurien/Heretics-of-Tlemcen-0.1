@@ -1,0 +1,1094 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 13
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ALQ = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = -11
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = -26
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 180
+	influence_value = 32
+	level = 4
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 95
+	influence_value = 11
+	level = 3
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -32
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 42
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KMK = {
+	value = 12
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = -24
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MBZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 51
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 10
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+OJI = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = -11
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 118
+	influence_value = 17
+	level = 2
+}
+TVE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -87
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAD = {
+	value = 40
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Husayn Salim"
+	date="1809.3.29"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Salih Kawawe"
+	date="1814.10.27"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Mwinyi Hasan Dato"
+	date="1818.5.8"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Munganaye Setia"
+	date="1818.5.11"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Salih Suja"
+	date="1818.5.14"
+	type=land
+	personality="charismatic"
+	background="drillmaster"
+}
+
+leader = {
+	name="Munganaye Jumbe"
+	date="1818.5.15"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Abû Bakr Semid"
+	date="1820.7.3"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=2911
+	ship = {
+		name="Shaka Zulu"
+		type=manowar
+	}
+	ship = {
+		name="KwaZulu"
+		type=manowar
+	}
+	ship = {
+		name="Assegai"
+		type=manowar
+	}
+	ship = {
+		name="Dingane"
+		type=manowar
+	}
+	ship = {
+		name="Dziva"
+		type=manowar
+	}
+	ship = {
+		name="Mwari"
+		type=manowar
+	}
+	ship = {
+		name="Dzivaguru"
+		type=manowar
+	}
+	ship = {
+		name="Mulungu"
+		type=manowar
+	}
+	ship = {
+		name="Mbonga"
+		type=manowar
+	}
+	ship = {
+		name="Svikiro"
+		type=manowar
+	}
+	ship = {
+		name="Mazendere"
+		type=manowar
+	}
+	ship = {
+		name="Mai Vedu"
+		type=manowar
+	}
+	ship = {
+		name="Musikavanhu"
+		type=manowar
+	}
+	ship = {
+		name="Mutorwa"
+		type=manowar
+	}
+	ship = {
+		name="5th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mombasa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Moçambique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ibo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Moçambique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quelimane Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2901
+	ship = {
+		name="7th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sofala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Oviedo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mogadishu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bourbon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sofala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bourbon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1868
+	ship = {
+		name="1st Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kilwa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Faro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Mzizima Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2058
+	regiment = {
+		name="1st uMgungundlovu Irregulars"
+		type=irregular
+		home=2113
+	}
+	regiment = {
+		name="1st Mosega Irregulars"
+		type=irregular
+		home=2108
+	}
+	regiment = {
+		name="1st Inkomati Irregulars"
+		type=irregular
+		home=2049
+	}
+	regiment = {
+		name="1st Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="2nd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st uMgungundlovu Artillery"
+		type=artillery
+		home=2113
+	}
+	regiment = {
+		name="1st Manjakazi Artillery"
+		type=artillery
+		home=2050
+	}
+	regiment = {
+		name="1st Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="1st Mosega Artillery"
+		type=artillery
+		home=2108
+	}
+	regiment = {
+		name="1st Ga-Riba Irregulars"
+		type=irregular
+		home=2109
+	}
+	regiment = {
+		name="1st Cape Town Artillery"
+		type=artillery
+		home=2087
+	}
+}
+
+army = {
+	name="28th Army"
+	location=2070
+	regiment = {
+		name="1st Cape Town Irregulars"
+		type=irregular
+		home=2087
+	}
+	regiment = {
+		name="1st Thaba Nchu Irregulars"
+		type=irregular
+		home=2101
+	}
+	regiment = {
+		name="1st Mbabane Irregulars"
+		type=irregular
+		home=2114
+	}
+	regiment = {
+		name="2nd Inkomati Irregulars"
+		type=irregular
+		home=2049
+	}
+	regiment = {
+		name="2nd Manjakazi Artillery"
+		type=artillery
+		home=2050
+	}
+	regiment = {
+		name="1st Worcester Artillery"
+		type=artillery
+		home=2089
+	}
+	regiment = {
+		name="1st Emnambithi Artillery"
+		type=artillery
+		home=2112
+	}
+	regiment = {
+		name="1st Baidoa Artillery"
+		type=artillery
+		home=1869
+	}
+}
+
+army = {
+	name="39th Army"
+	location=2635
+	regiment = {
+		name="1st Qwa-Qwa Irregulars"
+		type=irregular
+		home=2102
+	}
+	regiment = {
+		name="1st Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="2nd Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="1st Durban Irregulars"
+		type=irregular
+		home=2111
+	}
+	regiment = {
+		name="2nd Mosega Artillery"
+		type=artillery
+		home=2108
+	}
+}
+
+army = {
+	name="47th Army"
+	location=2581
+	regiment = {
+		name="2nd Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="1st Tsaneng Artillery"
+		type=artillery
+		home=2110
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1868
+	ship = {
+		name="2nd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kismayo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mogadishu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quelimane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Tolanaro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Toamasina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sofala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lindi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huelva Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Toliara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2058
+	regiment = {
+		name="1st Swettenham Irregulars"
+		type=irregular
+		home=2090
+	}
+	regiment = {
+		name="1st Lephoi Irregulars"
+		type=irregular
+		home=2103
+	}
+}
+

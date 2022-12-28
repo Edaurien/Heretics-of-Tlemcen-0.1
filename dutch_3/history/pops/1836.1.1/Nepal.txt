@@ -1,0 +1,172 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 14068
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 7021
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 17553
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 940
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 188
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 201
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 1053
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 84353
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 12507
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 6980
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 10621
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 494
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 144
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 638
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 44298
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 4517
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 2520
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 3835
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 52
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = tengri_pagan_reformed
+		size= 15998
+	}
+
+}

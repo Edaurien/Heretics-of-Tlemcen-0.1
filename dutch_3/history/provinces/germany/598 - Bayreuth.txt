@@ -1,0 +1,7 @@
+owner=NUM
+controller=NUM
+add_core=BYT
+add_core=GER
+add_core=NUM
+trade_goods = timber
+life_rating = 40

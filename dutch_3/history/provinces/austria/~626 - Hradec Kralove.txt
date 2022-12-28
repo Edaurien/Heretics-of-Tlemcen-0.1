@@ -1,0 +1,14 @@
+owner=SAX
+controller=SAX
+add_core=SAX
+add_core=CZE
+add_core=BOH
+add_core=WSF
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

@@ -1,0 +1,6 @@
+owner=RNB
+controller=RNB
+add_core = RNB
+trade_goods = fruit
+life_rating = 30
+terrain = mountain

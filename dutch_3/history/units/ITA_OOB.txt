@@ -1,0 +1,43 @@
+#Sphere of Influence
+
+#Leaders
+leader = {
+	name="Filippo Maria III"
+	date="1814.7.12"
+	type=land
+	personality="intuitive"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ascanio Maria Paleologi Montferrato"
+	date="1804.2.1"
+	type=sea
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Fabio Ludovisi"
+	date="1806.4.14"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Leopoldo di Saluzzo"
+	date="1814.6.21"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+#Sphere of Influence
+
+
+
+#Leaders
+
+leader = {
+	name="Khatcheres Keyishian"
+	date="1808.8.25"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Takvor Azadian"
+	date="1816.4.22"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Arshavir Haroutiunian"
+	date="1816.9.19"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Noubar Baltaian"
+	date="1818.2.22"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Jirayr Darbinian"
+	date="1818.4.14"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+#Armies
+
+army = {
+	name="1st Army"
+	location=888
+	regiment = {
+		name="1st Malatya Artillery"
+		type=artillery
+		home=889
+	}
+	regiment = {
+		name="1st Erzinean Artillery"
+		type=artillery
+		home=888
+	}
+	regiment = {
+		name="7th Erzinean Infantry"
+		type=infantry
+		home=888
+	}
+	regiment = {
+		name="1st Erzurum Infantry"
+		type=infantry
+		home=887
+	}
+	regiment = {
+		name="1st Kars infantry"
+		type=infantry
+		home=885
+	}
+	regiment = {
+		name="1st Kars infantry"
+		type=infantry
+		home=885
+	}
+	
+	
+}
+army = {
+	name="2nd Army"
+	location=890
+	regiment = {
+		name="1st Malatya Artillery"
+		type=artillery
+		home=890
+	}
+	regiment = {
+		name="1st Erzinean Artillery"
+		type=artillery
+		home=890
+	}
+	regiment = {
+		name="7th Erzinean cavalry"
+		type=cavalry
+		home=2414
+	}
+	regiment = {
+		name="1st Erzurum Infantry"
+		type=infantry
+		home=892
+	}
+	regiment = {
+		name="1st Urmia infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="1st Khvoy infantry"
+		type=infantry
+		home=1109
+	}	
+	regiment = {
+		name="1st Khvoy Artillery"
+		type=artillery
+		home=1109
+	}
+	
+	
+}
+

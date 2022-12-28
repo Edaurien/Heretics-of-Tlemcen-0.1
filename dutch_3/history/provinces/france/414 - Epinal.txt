@@ -1,0 +1,7 @@
+owner=LOR
+controller=LOR
+add_core=LOR
+add_core=FRA
+add_core=MLH
+trade_goods = sulphur
+life_rating = 31

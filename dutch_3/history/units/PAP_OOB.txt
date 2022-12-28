@@ -1,0 +1,125 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=2760
+	ship = {
+		name="1st Genoa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ancona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Savona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leghorn Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ancona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Venice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Udine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ferrara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brindisi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ferrara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lucca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brindisi Clipper Transport"
+		type=clipper_transport
+	}
+
+}
+
+
+
+army = {
+	name="Armata di Budziejowice"
+	location=739
+	
+	regiment = {
+		name="1st Rome Artillery"
+		type=artillery
+		home=749
+	}
+	
+	
+	regiment = {
+		name="1st Lugano Artillery"
+		type=artillery
+		home=2568
+	}
+}
+
+
+army = {
+	name="Armata di Aydin"
+	location=2669
+	regiment = {
+		name="1st Bologna Infantry"
+		type=infantry
+		home=741
+	}
+	regiment = {
+		name="1st Ravenna Infantry"
+		type=infantry
+		home=743
+	}
+	
+}
+
+army = {
+	name="Armata di Brescia"
+	location=10
+	
+	regiment = {
+		name="1st Rome Infantry"
+		type=infantry
+		home=749
+	}
+}
+
+

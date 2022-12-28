@@ -1,0 +1,13 @@
+name = "Dutch War"
+
+1820.10.2 = {
+	add_attacker = NET
+	add_defender = X17
+
+	war_goal = {
+		casus_belli = establish_protectorate_casus_belli
+		actor = NET
+		receiver = X17
+	}
+
+}

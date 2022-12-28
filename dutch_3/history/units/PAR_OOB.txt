@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+
+army = {
+	name="Armata di Brescia"
+	location=10
+	
+	regiment = {
+		name="1st Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="1st Parma Infantry"
+		type=infantry
+		home=738
+	}
+}

@@ -1,0 +1,7 @@
+owner=SHY
+controller=SHY
+add_core=AKH
+add_core=KAZ
+
+trade_goods = iron
+life_rating = 35

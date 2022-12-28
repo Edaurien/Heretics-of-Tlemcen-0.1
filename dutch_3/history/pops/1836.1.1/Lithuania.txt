@@ -1,0 +1,628 @@
+360 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 6093
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 2965
+		rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 139
+		rebel_type = nationalist_rebels
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 645
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 53268
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 3250
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 12450
+	}
+
+}
+361 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 1364
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 5520
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 240
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 125
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 110
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 878
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 35002
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 7050
+	}
+
+}
+362 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 1489
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 870
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 269
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 114
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 119
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 954
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 42922
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1400
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 8425
+	}
+
+}
+363 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 1287
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 99
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 832
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 30059
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+	
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 17930
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 6825
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+}
+364 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 1298
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 597
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 200
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 100
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 839
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 39772
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1400
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 5400
+	}
+
+}
+365 = {
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 490
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 243
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 16733
+		militancy = 8
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2325
+		
+	}
+
+}
+698 = {
+	soldiers=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 3034
+	}
+
+	artisans=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 1637
+	}
+
+	clergymen=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 547
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 10104
+	}
+	
+	farmers=
+	{
+		culture = baltic_german
+		religion = catholic
+		size= 30081
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}

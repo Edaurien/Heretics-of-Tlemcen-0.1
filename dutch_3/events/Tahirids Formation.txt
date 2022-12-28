@@ -1,0 +1,193 @@
+country_event = {
+
+    id = 565400
+    title = "EVTNAME565400"
+    desc = "EVTDESC565400"
+	picture = abd_al_qadir
+	fire_only_once = yes
+	
+	trigger = {
+	
+		tag = FEZ
+		war = no
+		year = 1840
+		
+	}
+	
+	mean_time_to_happen = {
+        months = 6
+    }
+	
+	option = {
+        name = "EVT565400OPTA"
+		
+		overlord = { 
+			set_country_flag = former_morocco_overlord
+		
+		}
+		
+		overlord = { release_vassal = THIS }
+		sphere_owner = {
+			leave_alliance = THIS
+			relation = { who = THIS value = -100 }
+			diplomatic_influence = { who = THIS value = -400 }
+		}
+		THIS = {
+			all_core = { add_core = THR }
+			change_tag = THR
+			
+		}
+		
+		ai_chance = { factor = 100 }
+		
+	}
+	
+	option = {
+        name = "EVT565400OPTB"
+		
+		any_pop = {
+            limit = { has_pop_culture = maghrebi }
+            militancy = 6
+        }
+		any_pop = {
+            limit = { has_pop_culture = berber }
+            militancy = 4
+        }
+		prestige = 10
+		
+		ai_chance = { factor = 0 }
+		
+	}
+}
+
+country_event = {
+
+    id = 565401
+    title = "EVTNAME565401"
+    desc = "EVTDESC565401"
+
+    trigger = {
+		OR = {
+            primary_culture = berber
+            primary_culture = maghrebi
+        }
+        war = no
+        THR = { exists = yes}
+        ai = yes
+        NOT = {
+			tag = THR
+            truce_with = THR
+            has_country_flag = attempted_tahirid_union
+        }
+		
+        
+    }
+
+
+
+    option = {
+        name = "EVT565401OPTA"
+        set_country_flag = attempted_tahirid_union
+        random_owned = {
+            limit = {
+                THR = { exists = yes }
+            }
+            owner = {
+                all_core = { add_core = THR }
+            }
+        }
+		
+		overlord = { release_vassal = THIS }
+		
+		sphere_owner = {
+			relation = { who = THIS value = -200 }
+			diplomatic_influence = { who = THIS value = -400 }
+			
+		}
+        
+
+        random_country = {
+            limit = {
+                OR = {
+                    tag = THR
+                    
+                }
+                exists = yes
+                ai = yes
+            }
+            prestige = 3
+            inherit = THIS
+        }
+        random_country = {
+            limit = {
+                OR = {
+                    tag = THR
+                    
+                }
+                exists = yes
+                ai = no
+            }
+            prestige = 3
+			inherit = THIS
+            
+        }
+    }
+}
+
+country_event = {
+
+    id = 565402
+    title = "EVTNAME565402"
+    desc = "EVTDESC565402"
+	picture = arab_revolt
+	
+
+    trigger = {
+
+        THR = { exists = yes}
+        
+        has_country_flag = former_morocco_overlord
+
+    }
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+        name = "EVT565402OPTA"
+		
+		war = {
+			target = THR
+			attacker_goal = { casus_belli = conquest_any }
+			call_ally = no
+		}
+		
+		ai_chance = { factor = 100 }
+		
+	}
+	
+	
+	option = {
+        name = "EVT565402OPTB"
+		
+		prestige = -50
+		
+		any_pop = {
+            scaled_militancy = {
+                ideology = reactionary
+                factor = 6
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = 4
+            }
+
+        }
+		
+		ai_chance = { factor = 0 }
+		
+	}
+	

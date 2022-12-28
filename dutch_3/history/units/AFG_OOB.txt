@@ -1,0 +1,126 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+
+army = {
+	name="10th Army"
+	location=686
+	regiment = {
+		name="5th Kerman Irregulars"
+		type=irregular
+		home=1140
+	}
+	regiment = {
+		name="6th Kerman Irregulars"
+		type=irregular
+		home=1140
+	}
+	regiment = {
+		name="1st Kerman Artillery"
+		type=artillery
+		home=1140
+	}
+	regiment = {
+		name="7th Bam Irregulars"
+		type=irregular
+		home=1143
+	}
+	regiment = {
+		name="10th Kalat Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Zaranj Cavalry"
+		type=cavalry
+		home=1214
+	}
+}
+
+army = {
+	name="68th Army"
+	location=1214
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1214
+	}
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1215
+	}
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1215
+	}
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
+		name="1st Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="6th Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+	regiment = {
+		name="3rd Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1216
+	regiment = {
+		name="2nd Jalalabad Irregulars"
+		type=irregular
+		home=1216
+	}
+	regiment = {
+		name="2nd Kabul Irregulars"
+		type=irregular
+		home=1209
+	}
+	regiment = {
+		name="1st Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="2nd Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="1st Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="2nd Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+	regiment = {
+		name="2nd Ghazmi Irregulars"
+		type=irregular
+		home=1217
+	}
+	regiment = {
+		name="2nd Quetta Artillery"
+		type=artillery
+		home=1219
+	}
+}

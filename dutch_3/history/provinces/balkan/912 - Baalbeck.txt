@@ -1,0 +1,10 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=EGY
+add_core=IRQ
+add_core=TUR
+add_core=SYR
+trade_goods = timber
+life_rating = 35
+colonial=2

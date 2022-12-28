@@ -1,0 +1,6 @@
+owner = HAU
+controller = HAU
+add_core = HAU
+trade_goods = grain
+terrain = semidesert
+life_rating = 20

@@ -1,0 +1,218 @@
+2224 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5343
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 232
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 68
+	}
+
+}
+2225 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1348
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12
+	}
+
+}
+2226 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1122
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 21
+	}
+
+}
+2227 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5580
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 246
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 143
+	}
+
+}

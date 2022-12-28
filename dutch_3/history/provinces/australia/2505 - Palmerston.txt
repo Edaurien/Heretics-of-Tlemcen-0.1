@@ -1,0 +1,7 @@
+owner=IBR
+controller=IBR
+add_core=AUY
+add_core=TIW
+trade_goods = grain
+life_rating = 31
+colonial=2

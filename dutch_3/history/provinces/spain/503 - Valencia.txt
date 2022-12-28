@@ -1,0 +1,7 @@
+owner=IBR
+controller=IBR
+add_core=CAT
+add_core=SPA
+add_core=IBR
+trade_goods = silk
+life_rating = 35

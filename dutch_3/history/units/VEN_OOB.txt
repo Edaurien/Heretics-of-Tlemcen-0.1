@@ -1,0 +1,147 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=729
+	regiment = {
+		name="6th Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="7th Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="1st Verona Artillery"
+		type=artillery
+		home=730
+	}
+	regiment = {
+		name="8th Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="1st Venice Infantry"
+		type=infantry
+		home=729
+	}
+	
+}
+army = {
+	name="Gascon Musket Company"
+	location=731
+	regiment = {
+		name="2nd Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="3rd Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="4th Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="5th Venice Infantry"
+		type=infantry
+		home=729
+	}
+	regiment = {
+		name="1st Padua Artillery"
+		type=artillery
+		home=731
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2760
+	ship = {
+		name="Sicilia"
+		type=manowar
+	}
+	ship = {
+		name="Sardegna"
+		type=manowar
+	}
+	ship = {
+		name="Puglia"
+		type=manowar
+	}
+	ship = {
+		name="Libia"
+		type=manowar
+	}
+	ship = {
+		name="Campania"
+		type=manowar
+	}
+	ship = {
+		name="Basilicata"
+		type=manowar
+	}
+	ship = {
+		name="Fulmine"
+		type=frigate
+	}
+	ship = {
+		name="Lampo"
+		type=frigate
+	}
+	ship = {
+		name="Freccia"
+		type=frigate
+	}
+	ship = {
+		name="Dardo"
+		type=frigate
+	}
+	ship = {
+		name="Strale"
+		type=frigate
+	}
+	ship = {
+		name="Euro"
+		type=frigate
+	}
+	ship = {
+		name="Ostro"
+		type=frigate
+	}
+	ship = {
+		name="Artigliere"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=760
+	ship = {
+		name="Quarto"
+		type=manowar
+	}
+	ship = {
+		name="Borea"
+		type=frigate
+	}
+	ship = {
+		name="Venezia"
+		type=manowar
+	}
+	ship = {
+		name="Zeffiro"
+		type=frigate
+	}
+}

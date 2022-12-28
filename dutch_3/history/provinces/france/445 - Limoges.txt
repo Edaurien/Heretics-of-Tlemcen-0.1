@@ -1,0 +1,8 @@
+owner=AMG
+controller=AMG
+add_core=AMG
+add_core=FRA
+add_core=GYN
+add_core=OCC
+trade_goods = cattle
+life_rating = 31

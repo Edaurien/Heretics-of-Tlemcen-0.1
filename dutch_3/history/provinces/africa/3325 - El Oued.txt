@@ -1,0 +1,6 @@
+owner=TGT
+controller=TGT
+add_core=TGT
+add_core=ALD
+trade_goods = wool
+life_rating = 35

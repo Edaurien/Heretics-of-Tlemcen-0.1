@@ -1,0 +1,1093 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ALQ = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = -95
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 59
+	influence_value = 2
+	level = 3
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 29
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 38
+	level = 2
+}
+KEL = {
+	value = -27
+	level = 2
+}
+KHA = {
+	value = -18
+	level = 2
+}
+KMK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MBZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 157
+	military_access = yes
+	influence_value = 26
+	level = 2
+}
+MUG = {
+	value = 20
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+OJI = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 50
+	level = 3
+}
+PLB = {
+	value = -12
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = -11
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHA = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TVE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAD = {
+	value = 0
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Chakkraphat II Thonburi"
+	date="1818.10.15"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Chao Fa Jai Na Phayap"
+	date="1809.8.27"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Si Suthammaracha Srichure"
+	date="1817.3.17"
+	type=sea
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Trailokanat Na Chanthaburi"
+	date="1818.10.17"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Si Suthammaracha Monkoltham"
+	date="1818.10.18"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=1351
+	ship = {
+		name="Ban Bong"
+		type=manowar
+	}
+	ship = {
+		name="Butsabong Chi"
+		type=manowar
+	}
+	ship = {
+		name="chorakhe Sam"
+		type=manowar
+	}
+	ship = {
+		name="Dom Noi"
+		type=manowar
+	}
+	ship = {
+		name="Hanuman"
+		type=manowar
+	}
+	ship = {
+		name="Ing"
+		type=manowar
+	}
+	ship = {
+		name="Kam Mi"
+		type=manowar
+	}
+	ship = {
+		name="Khwae Yai"
+		type=manowar
+	}
+	ship = {
+		name="Lai"
+		type=manowar
+	}
+	ship = {
+		name="Pa Daeng"
+		type=manowar
+	}
+	ship = {
+		name="Pa Sak"
+		type=manowar
+	}
+	ship = {
+		name="Ngim"
+		type=manowar
+	}
+	ship = {
+		name="Nakhon Ratchasima"
+		type=frigate
+	}
+	ship = {
+		name="Buriram"
+		type=frigate
+	}
+	ship = {
+		name="Surin"
+		type=frigate
+	}
+	ship = {
+		name="Si Sa Ket"
+		type=frigate
+	}
+	ship = {
+		name="Ubon Ratchathani"
+		type=frigate
+	}
+	ship = {
+		name="Amnat Charoen"
+		type=frigate
+	}
+	ship = {
+		name="Yasothon"
+		type=frigate
+	}
+	ship = {
+		name="Roi Et"
+		type=frigate
+	}
+	ship = {
+		name="Mahasarakham"
+		type=frigate
+	}
+	ship = {
+		name="Khon Kaen"
+		type=frigate
+	}
+	ship = {
+		name="Chaiyaphum"
+		type=frigate
+	}
+	ship = {
+		name="Loei"
+		type=frigate
+	}
+	ship = {
+		name="Nong Bualumphu"
+		type=frigate
+	}
+	ship = {
+		name="Udon Thani"
+		type=frigate
+	}
+	ship = {
+		name="Kalasin"
+		type=frigate
+	}
+	ship = {
+		name="Mukdahan"
+		type=frigate
+	}
+	ship = {
+		name="tak Daet"
+		type=manowar
+	}
+	ship = {
+		name="6th Chanthaburi Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1379
+	regiment = {
+		name="1st Nakhon Si Thammarat Irregulars"
+		type=irregular
+		home=1354
+	}
+	regiment = {
+		name="1st Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="1st Savannakhet Irregulars"
+		type=irregular
+		home=1361
+	}
+	regiment = {
+		name="2nd Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="1st Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="2nd Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="1st Kota Kubang Labu Artillery"
+		type=artillery
+		home=1391
+	}
+	regiment = {
+		name="1st Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="1st Nakhon Sawan Irregulars"
+		type=irregular
+		home=1348
+	}
+	regiment = {
+		name="1st Saigon Artillery"
+		type=artillery
+		home=1380
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1405
+	regiment = {
+		name="1st Chanthaburi Irregulars"
+		type=irregular
+		home=1365
+	}
+	regiment = {
+		name="1st Bangkok Irregulars"
+		type=irregular
+		home=1346
+	}
+	regiment = {
+		name="1st Chiang Mai Irregulars"
+		type=irregular
+		home=1355
+	}
+	regiment = {
+		name="2nd Chanthaburi Irregulars"
+		type=irregular
+		home=1365
+	}
+	regiment = {
+		name="3rd Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="3rd Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="2nd Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="4th Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="5th Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="7th Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1347
+	regiment = {
+		name="1st Nakhon Ratchasima Irregulars"
+		type=irregular
+		home=1350
+	}
+	regiment = {
+		name="1st Sisaket Irregulars"
+		type=irregular
+		home=1359
+	}
+	regiment = {
+		name="4th Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="5th Ratchaburi Irregulars"
+		type=irregular
+		home=1353
+	}
+	regiment = {
+		name="1st Kampot Artillery"
+		type=artillery
+		home=1367
+	}
+	regiment = {
+		name="1st Vientiane Artillery"
+		type=artillery
+		home=1357
+	}
+	regiment = {
+		name="1st Pattani Artillery"
+		type=artillery
+		home=1392
+	}
+	regiment = {
+		name="1st Singapore Artillery"
+		type=artillery
+		home=1384
+	}
+	regiment = {
+		name="1st Da Nang Irregulars"
+		type=irregular
+		home=1377
+	}
+	regiment = {
+		name="2nd Vientiane Artillery"
+		type=artillery
+		home=1357
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1353
+	regiment = {
+		name="2nd Chiang Mai Irregulars"
+		type=irregular
+		home=1355
+	}
+	regiment = {
+		name="1st Stongtreng Irregulars"
+		type=irregular
+		home=1368
+	}
+	regiment = {
+		name="1st Phnom Penh Irregulars"
+		type=irregular
+		home=1364
+	}
+	regiment = {
+		name="1st Qui Nhon Irregulars"
+		type=irregular
+		home=1379
+	}
+	regiment = {
+		name="1st Saigon Irregulars"
+		type=irregular
+		home=1380
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1385
+	regiment = {
+		name="1st Dong Quai Irregulars"
+		type=irregular
+		home=1381
+	}
+	regiment = {
+		name="3rd Chanthaburi Irregulars"
+		type=irregular
+		home=1365
+	}
+	regiment = {
+		name="2nd Nakhon Ratchasima Irregulars"
+		type=irregular
+		home=1350
+	}
+	regiment = {
+		name="6th Ratchaburi Artillery"
+		type=artillery
+		home=1353
+	}
+	regiment = {
+		name="1st Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+	regiment = {
+		name="3rd Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="4th Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+	regiment = {
+		name="1st Udon Thani Irregulars"
+		type=irregular
+		home=1358
+	}
+	regiment = {
+		name="5th Bangkok Artillery"
+		type=artillery
+		home=1346
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2814
+	ship = {
+		name="Sakon Nakhon"
+		type=frigate
+	}
+	ship = {
+		name="3rd Prachinburi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2819
+	ship = {
+		name="Nakhon Phanom"
+		type=frigate
+	}
+	ship = {
+		name="Nong Khai"
+		type=frigate
+	}
+	ship = {
+		name="5th Chanthaburi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2800
+	ship = {
+		name="2nd Qui Nhon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chanthaburi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Qui Nhon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2575
+	ship = {
+		name="Noi"
+		type=manowar
+	}
+	ship = {
+		name="1st Qui Nhon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Qui Nhon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dong Quai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chanthaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dong Quai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Qui Nhon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nakhon Si Thammarat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chanthaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chanthaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Dong Quai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Chanthaburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Moulmein Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Prachinburi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mergui Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malacca Clipper Transport"
+		type=clipper_transport
+	}
+}
+

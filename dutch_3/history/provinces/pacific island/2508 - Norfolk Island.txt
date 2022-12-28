@@ -1,0 +1,8 @@
+owner=IBR
+controller=IBR
+add_core=AOT
+add_core=NZR
+add_core=X10
+trade_goods = fish
+life_rating = 31
+terrain = small_island

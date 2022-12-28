@@ -1,0 +1,192 @@
+
+
+#Leaders
+leader = {
+	name="Fiqtor I Solomonid"
+	date="1689.2.14"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Antenatewos Eshete"
+	date="1683.5.3"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Fiqtor Asres"
+	date="1689.2.15"
+	type=land
+	personality="chivalrous"
+	background="war_college"
+}
+
+leader = {
+	name="Ba'eda Mâryâm Eshete"
+	date="1690.1.26"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1766
+	regiment = {
+		name="1st Matamma Irregulars"
+		type=irregular
+		home=1854
+	}
+	regiment = {
+		name="1st Bayda Artillery"
+		type=artillery
+		home=1176
+	}
+	regiment = {
+		name="1st Ankober Artillery"
+		type=artillery
+		home=1859
+	}
+	regiment = {
+		name="1st Dongola Irregulars"
+		type=irregular
+		home=1835
+	}
+	regiment = {
+		name="1st Debre Markos Irregulars"
+		type=irregular
+		home=1855
+	}
+	regiment = {
+		name="2nd Ankober Artillery"
+		type=artillery
+		home=1859
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2785
+	ship = {
+		name="Yodit"
+		type=manowar
+	}
+	ship = {
+		name="Shewa"
+		type=manowar
+	}
+	ship = {
+		name="Mara Takla"
+		type=manowar
+	}
+	ship = {
+		name="Lalibela"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1860
+	regiment = {
+		name="1st Asaita Irregulars"
+		type=irregular
+		home=1858
+	}
+	regiment = {
+		name="1st Jimma Irregulars"
+		type=irregular
+		home=1863
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2785
+	ship = {
+		name="Yekuno Amlak"
+		type=manowar
+	}
+	ship = {
+		name="Kedus Harbe"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2782
+	ship = {
+		name="Tigray"
+		type=frigate
+	}
+	ship = {
+		name="Tatadum"
+		type=frigate
+	}
+	ship = {
+		name="Na'akueto La'ab"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2782
+	ship = {
+		name="Seyum"
+		type=manowar
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2782
+	ship = {
+		name="1st Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+}
+

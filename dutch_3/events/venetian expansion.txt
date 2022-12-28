@@ -1,0 +1,78 @@
+country_event = {
+
+    id = 865401
+    title = "EVTNAME865401"
+    desc = "EVTDESC865401"
+
+    trigger = {
+		year = 1849
+        primary_culture = north_italian
+        war = no
+        is_vassal = no
+        ai = yes
+        NOT = {
+            tag = VEN
+            exists = ITA
+            truce_with = VEN
+            has_country_flag = attempted_venetian_union
+        }
+        OR = {
+            sphere_owner = { is_sphere_leader_of = VEN }
+            in_sphere = VEN
+            
+        }
+        OR = {
+            VEN = {
+                war = no
+                neighbour = THIS
+                is_vassal = no
+            }
+        }
+		OR = {
+			VEN = { nationalism_n_imperialism = 1 }		
+		}
+    }
+
+    mean_time_to_happen = {
+        months = 24
+    }
+
+    option = {
+        name = "EVT865401OPTA"
+        set_country_flag = attempted_venetian_union
+        random_owned = {
+            limit = {
+                VEN = { exists = yes }
+            }
+            owner = {
+                all_core = { add_core = VEN }
+            }
+        }
+        
+
+        random_country = {
+            limit = {
+                OR = {
+                    tag = VEN
+                    
+                }
+                exists = yes
+                ai = yes
+            }
+            prestige = 10
+            inherit = THIS
+        }
+        random_country = {
+            limit = {
+                OR = {
+                    tag = VEN
+                    
+                }
+                exists = yes
+                ai = no
+            }
+            prestige = 10
+            country_event = 60130
+        }
+    }
+}

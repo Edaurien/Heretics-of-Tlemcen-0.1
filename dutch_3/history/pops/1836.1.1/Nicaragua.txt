@@ -1,0 +1,211 @@
+2197 = {
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 961
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1921
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 115
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 44280
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 8852
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 484
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 11150
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 512
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1955
+	}
+
+}

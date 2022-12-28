@@ -1,0 +1,2 @@
+oob = "REB_OOB.txt"
+set_country_flag = vic2_country_REB

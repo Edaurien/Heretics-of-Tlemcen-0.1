@@ -1,0 +1,51 @@
+2535 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 224
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5222
+	}
+
+}

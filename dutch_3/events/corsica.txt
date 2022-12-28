@@ -1,0 +1,86 @@
+# Corsica Purchase 1/3
+country_event = {
+    id = 99991
+    title = "EVTNAME99991"
+    desc = "EVTDESC99991"
+    picture = "administration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT99991OPTA"
+        money = 50000
+        473 = { remove_core = THIS }
+        FROM = { country_event = 99992 }
+        ai_chance = {
+            factor = 60
+                modifier = {
+                    factor = 0.8
+                    is_greater_power = no
+                }
+                modifier = {
+                    factor = 0.7
+                    alliance_with = FROM
+                }
+                modifier = {
+                    factor = 0.7
+                    relation = { who = FROM value = 150 }
+                }
+            }
+    }
+
+    option = {
+        name = "EVT99991OPTB"
+        FROM = { country_event = 99993 }
+        ai_chance = {
+            factor = 40
+                modifier = {
+                    factor = 0.2
+                    is_greater_power = no
+                }
+
+                modifier = {
+                    factor = 0.6
+                    FROM = { is_greater_power = no }
+                }
+                modifier = {
+                    factor = 0.1
+                    NOT = { relation = { who = FROM value = 0 } }
+                }
+            }
+    }
+}
+
+# Corsica Purchase 2/3
+country_event = {
+    id = 99992
+    title = "EVTNAME99992"
+    desc = "EVTDESC99992"
+    picture = "administration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT99991OPTA"
+        prestige = 5
+        money = -50000
+        473 = { secede_province = THIS }
+        relation = { who = FROM value = 50 }
+        any_pop = { consciousness = -1 }
+    }
+}
+
+# Corsica Purchae 3/3
+country_event = {
+    id = 99993
+    title = "EVTNAME99993"
+    desc = "EVTDESC99993"
+    picture = "administration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT99991OPTA"
+        relation = { who = FROM value = -100 }
+    }
+}

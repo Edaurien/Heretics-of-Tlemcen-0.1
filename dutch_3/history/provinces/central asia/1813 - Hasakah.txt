@@ -1,0 +1,8 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=IRQ
+trade_goods = wool
+life_rating = 31
+terrain = dryhills
+colonial=2

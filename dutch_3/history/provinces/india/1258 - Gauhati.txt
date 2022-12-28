@@ -1,0 +1,7 @@
+owner=HMI
+controller=HMI
+add_core=ASM
+add_core=HMI
+add_core=HND
+trade_goods = fish
+life_rating = 32

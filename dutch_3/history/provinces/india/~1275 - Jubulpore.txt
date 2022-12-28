@@ -1,0 +1,10 @@
+owner=MUG
+controller=MUG
+add_core=AND
+add_core=GDW
+add_core=HND
+add_core=MAW
+add_core=MEW
+add_core=MUG
+trade_goods = dye
+life_rating = 32

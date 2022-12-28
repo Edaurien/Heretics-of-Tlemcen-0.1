@@ -1,0 +1,10 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=ARA
+add_core=EGY
+add_core=TUR
+trade_goods = wool
+life_rating = 20
+terrain = semidesert
+naval_base = 1

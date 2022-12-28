@@ -1,0 +1,237 @@
+#Sphere of Influence
+
+ANH = {
+	value = 50
+	level = 5
+	military_access = yes
+}
+BRA = {
+	value = 50
+	level = 5
+	military_access = yes
+}
+BRN = {
+	value = 50
+	level = 5
+	military_access = yes
+}
+HAM = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+HEK = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+HES = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+
+LUB = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+MAG = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+
+WEI = {
+	value = 65
+	level = 5
+	military_access = yes
+}
+
+
+#Leaders
+
+leader = {
+	name="Xaver Detmold"
+	date="1784.9.12"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Hieronymus Oldenburg"
+	date="1806.4.13"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Heinrich Hildesheim"
+	date="1806.4.18"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Thomas Werden"
+	date="1806.4.20"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+#Armies
+
+army = {
+	name="Armee von Thuringia"
+	location=561
+	regiment = {
+		name="1st Gotha Infantry"
+		type=infantry
+		home=562
+	}
+	regiment = {
+		name="1st Memingen Infantry"
+		type=infantry
+		home=563
+	}
+	regiment = {
+		name="1st Weimar Infantry"
+		type=infantry
+		home=561
+	}
+	regiment = {
+		name="1st Weimar Artillery"
+		type=artillery
+		home=561
+	}
+}
+
+army = {
+	name="Armee Von Saxony"
+	location=559
+	regiment = {
+		name="1st Halle Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=559
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=559
+	}
+	regiment = {
+		name="1st Kamjenica Artillery"
+		type=artillery
+		home=560
+	}
+	regiment = {
+		name="1st Drezno Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=558
+	}
+	
+}
+
+army = {
+	name="Armee Von Silesia"
+	location=559
+	regiment = {
+		name="1st Halle Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=683
+	}
+	regiment = {
+		name="1st Kamjenica Artillery"
+		type=artillery
+		home=864
+	}
+	regiment = {
+		name="1st Drezno Artillery"
+		type=artillery
+		home=685
+	}
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=683
+	}
+	
+}
+
+army = {
+	name="Armee Von Silesia"
+	location=625
+	regiment = {
+		name="1st Halle Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="1st Lipsk Infantry"
+		type=infantry
+		home=627
+	}
+	regiment = {
+		name="1st Kamjenica Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Drezno Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=629
+	}
+	
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=631
+	}
+	
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=630
+	}
+	
+	regiment = {
+		name="1st Drezno Infantry"
+		type=infantry
+		home=688
+	}
+	
+}

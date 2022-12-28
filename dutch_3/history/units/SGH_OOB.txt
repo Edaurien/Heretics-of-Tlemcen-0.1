@@ -1,0 +1,31 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1809
+	regiment = {
+		name="1st Chenachene Irregulars"
+		type=irregular
+		home=1717
+	}
+	regiment = {
+		name="1st Say Artillery"
+		type=artillery
+		home=1809
+	}
+	regiment = {
+		name="1st Agades Irregulars"
+		type=irregular
+		home=1812
+	}
+	regiment = {
+		name="1st Tessalit Artillery"
+		type=artillery
+		home=1807
+	}
+}
+

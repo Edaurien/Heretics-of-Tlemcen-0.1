@@ -1,0 +1,10 @@
+#Sphere of Influence
+TEU = {
+	value = -100
+	influence_value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,5 @@
+
+add_core=IRQ
+add_core=SRN
+trade_goods = sulphur
+life_rating = 10

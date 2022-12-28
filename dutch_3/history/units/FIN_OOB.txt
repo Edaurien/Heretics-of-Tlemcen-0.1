@@ -1,0 +1,60 @@
+#Sphere of Influence
+
+
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=344
+	regiment = {
+		name="1st Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="1st Vaasa Infantry"
+		type=infantry
+		home=346
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2706
+	ship = {
+		name="Uusimaa"
+		type=frigate
+	}
+	ship = {
+		name="Per Brahe"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=343
+	ship = {
+		name="Väinämöinen"
+		type=frigate
+	}
+	ship = {
+		name="Ilmarinen"
+		type=frigate
+	}
+	ship = {
+		name="Joukahainen"
+		type=frigate
+	}
+	ship = {
+		name="Birger Jarl"
+		type=frigate
+	}
+	ship = {
+		name="Tapio"
+		type=frigate
+	}
+}
+

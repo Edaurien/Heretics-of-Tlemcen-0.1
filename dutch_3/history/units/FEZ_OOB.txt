@@ -1,0 +1,108 @@
+#Sphere of Influence
+
+
+#Leaders
+leader = {
+	name="Zaydân Alami"
+	date="1795.7.2"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Sulaymân Berui"
+	date="1812.12.18"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Umar Skah"
+	date="1816.1.6"
+	type=land
+	personality="disciplined"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="Grand Company"
+	location=1699
+	regiment = {
+		name="1st Sawira Irregulars"
+		type=irregular
+		home=1693
+	}
+	regiment = {
+		name="2nd Sawira Irregulars"
+		type=irregular
+		home=1693
+	}
+	regiment = {
+		name="1st Marrakesh Infantry"
+		type=infantry
+		home=1690
+	}
+	regiment = {
+		name="1st Meknes Infantry"
+		type=infantry
+		home=1682
+	}
+	regiment = {
+		name="1st Warzazat Infantry"
+		type=infantry
+		home=1699
+	}
+	regiment = {
+		name="1st Rabat Infantry"
+		type=infantry
+		home=1685
+	}
+}
+
+
+army = {
+	name="2nd Army"
+	location=1681
+	regiment = {
+		name="1st Warzazat Infantry"
+		type=infantry
+		home=1699
+	}
+	regiment = {
+		name="1st Agadir Artillery"
+		type=artillery
+		home=1694
+	}
+	regiment = {
+		name="2nd Marrakesh Irregulars"
+		type=irregular
+		home=1692
+	}
+	regiment = {
+		name="1st Warzazat Artillery"
+		type=artillery
+		home=1699
+	}
+	regiment = {
+		name="2nd Agadir Artillery"
+		type=artillery
+		home=1694
+	}
+	regiment = {
+		name="1st Safi Irregulars"
+		type=irregular
+		home=2563
+	}
+	regiment = {
+		name="2nd Safi Infantry"
+		type=infantry
+		home=2563
+	}
+}
+
+
+

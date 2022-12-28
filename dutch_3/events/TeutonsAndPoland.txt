@@ -1,0 +1,321 @@
+#teutonic intervenes in the lithuania
+country_event = {
+	id = 235452
+	title = EVTNAME235452
+	desc = EVTDESC235452
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	trigger = { 
+		NOT = {
+			year = 1830
+		}
+		tag = TEU
+		LIT = {
+            exists = yes
+        }
+		LIT = { 
+			is_independant = yes
+		}
+
+
+	}
+	
+	option = { 
+		name = EVTOPTA235452
+		any_pop = {
+            limit = { has_pop_culture = baltic_german }
+            militancy = 6
+        }
+		prestige = -5
+		badboy = -5
+		ai_chance = { factor = 1 }
+		
+    }
+	option = { 
+		name = EVTOPTB235452
+		prestige = 10
+		LIT = { country_event = 235453 }
+		ai_chance = { factor = 99 }
+
+		
+    }
+
+}
+
+#lithuanian response 
+
+country_event = {
+	id = 235453
+	title = EVTNAME235453
+	desc = EVTDESC235453
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	
+	option = { 
+		name = EVTOPTA235453
+		
+		prestige = -50
+		LIT = { all_core = { add_core = TEU } }
+		random_country = {
+            limit = {
+                tag = TEU
+            }
+            inherit = LIT
+			prestige = 10
+        }
+
+		
+		PLC = { country_event = 235454 }
+		ai_chance = { factor = 100 }
+		
+		
+    }
+	option = { 
+		name = EVTOPTB235453
+		prestige = 10
+		TEU = {
+			war = {
+				target = LIT
+				attacker_goal = { casus_belli = conquest_any }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = no
+			}
+		}
+		ai_chance = { factor = 0 }
+		
+		
+
+		
+    }
+
+}
+
+country_event = {
+	id = 235454
+	title = EVTNAME235454
+	desc = EVTDESC235454
+	picture = treaty_of_versailles
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = { 
+		name = EVTOPTA235454
+		prestige = -40
+		any_pop = {
+            
+            militancy = 4
+        }
+		ai_chance = { factor = 0 }
+	}
+	
+	
+	
+	option = { 
+		name = EVTOPTB235454
+		
+		
+		war = {
+			target = TEU
+			attacker_goal = { casus_belli = put_down_teu }
+			defender_goal = { casus_belli = put_down_pol }
+			call_ally = no
+		}
+		ai_chance = { factor = 100 }
+		
+	}
+	
+	
+}
+
+#peace with Poland
+country_event = {
+	id = 235455
+	title = EVTNAME235455
+	desc = EVTDESC235455
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+
+
+
+
+	option = { 
+		name = EVTOPTA235455
+		prestige = 5
+		
+		
+		ai_chance = { factor = 5 }
+		
+    }
+	option = { 
+		name = EVTOPTB235455
+		prestige = -10
+		badboy = 15
+		PLC = { country_event = 235456 }
+		ai_chance = { factor = 90}
+
+		
+    }
+	option = { 
+		name = EVTOPTC235455
+		prestige = -15
+		badboy = 35
+		inherit = PLC
+		ai_chance = { factor = 5}
+		
+		
+
+	}
+}
+
+country_event = {
+	id = 235456
+	title = EVTNAME235456
+	desc = EVTDESC235456
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = EVTOPTA235455
+		prestige = 5
+		
+		any_owned = {
+			limit = {
+				OR = {
+					region = RUS_715
+					region = RUS_706
+				}
+			}
+			secede_province = TEU
+		}
+		
+		
+    }
+}
+
+#peace with Poland
+country_event = {
+	id = 235457
+	title = EVTNAME235457
+	desc = EVTDESC235457
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+
+
+
+
+	option = { 
+		name = EVTOPTA235457
+		prestige = 5
+		TEU = { country_event = 235458 }
+		
+		ai_chance = { factor = 5 }
+		
+    }
+	option = { 
+		name = EVTOPTB235455
+		prestige = -10
+		badboy = 15
+		TEU = { country_event = 235459 }
+		ai_chance = { factor = 90}
+
+		
+    }
+	option = { 
+		name = EVTOPTC235455
+		prestige = -15
+		badboy = 35
+		TEU = { country_event = 235460 }
+		ai_chance = { factor = 5}
+		
+		
+
+	}
+}
+
+country_event = {
+	id = 235458
+	title = EVTNAME235458
+	desc = EVTDESC235458
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = EVTOPTA235458
+		prestige = 5
+		
+		any_owned = {
+			limit = {
+				OR = {
+					region = PRU_701
+					region = RUS_707
+					region = RUS_940
+					region = RUS_360
+				}
+			}
+			secede_province = PLC
+		}
+		
+		
+    }
+}
+
+country_event = {
+	id = 235459
+	title = EVTNAME235459
+	desc = EVTDESC235459
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = EVTOPTA235459
+		prestige = 5
+		
+		any_owned = {
+			limit = {
+				OR = {
+					region = RUS_349
+					province_id = 355
+					province_id = 3326
+				}
+				
+			}
+			
+			secede_province = UBD
+		}
+		
+		any_owned = {
+			limit = {
+				OR = {
+					region = PRU_701
+					region = RUS_707
+					region = RUS_940
+					region = RUS_360
+					province_id = 359
+					province_id = 358
+					province_id = 357
+					province_id = 354
+					
+				}
+			}
+			secede_province = PLC
+		}
+		
+		
+    }
+}

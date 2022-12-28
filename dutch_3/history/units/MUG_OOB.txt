@@ -1,0 +1,882 @@
+#Sphere of Influence
+
+#Leaders
+leader = {
+	name="Dâwar Bakhsh I Timurid"
+	date="1800.12.26"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Ahmad Shâh Sinan"
+	date="1796.12.13"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Kâm Bakhsh Sinan"
+	date="1796.12.15"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Dâwar Bakhsh Timurid"
+	date="1815.12.25"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jawan Bakht Bhutto"
+	date="1812.12.18"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Dârâ Shikûh Chughtai"
+	date="1812.12.21"
+	type=land
+	personality="coolminded"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Murâd Bakhsh Beg"
+	date="1813.10.28"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Shâh Jahân Mirza"
+	date="1816.6.2"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mahmud Shâh Shahabuddin"
+	date="1820.1.7"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2786
+	ship = {
+		name="Alia"
+		type=manowar
+	}
+	ship = {
+		name="Arusa"
+		type=manowar
+	}
+	ship = {
+		name="Chambal"
+		type=manowar
+	}
+	ship = {
+		name="Fatimah"
+		type=manowar
+	}
+	ship = {
+		name="Jalsena"
+		type=manowar
+	}
+	ship = {
+		name="Ganges"
+		type=manowar
+	}
+	ship = {
+		name="Kala Jahazi"
+		type=manowar
+	}
+	ship = {
+		name="Khan"
+		type=manowar
+	}
+	ship = {
+		name="Lal Jahazi"
+		type=manowar
+	}
+	ship = {
+		name="Nausena"
+		type=manowar
+	}
+	ship = {
+		name="Nav ka Yudh"
+		type=manowar
+	}
+	ship = {
+		name="Niknaz"
+		type=manowar
+	}
+	ship = {
+		name="Nila Jahazi"
+		type=manowar
+	}
+	ship = {
+		name="Niloufa"
+		type=manowar
+	}
+	ship = {
+		name="Noor"
+		type=manowar
+	}
+	ship = {
+		name="Sagar"
+		type=manowar
+	}
+	ship = {
+		name="Salima"
+		type=manowar
+	}
+	ship = {
+		name="Shameena"
+		type=manowar
+	}
+	ship = {
+		name="Spiti"
+		type=manowar
+	}
+	ship = {
+		name="Suhalia"
+		type=manowar
+	}
+	ship = {
+		name="Yamuna"
+		type=manowar
+	}
+	ship = {
+		name="Yasmine"
+		type=manowar
+	}
+	ship = {
+		name="Zahira"
+		type=manowar
+	}
+	ship = {
+		name="10th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Karachi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Sur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jask Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Rajkot Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="52nd Army"
+	location=1268
+	regiment = {
+		name="1st Chhatarpur Irregulars"
+		type=irregular
+		home=1273
+	}
+	regiment = {
+		name="1st Gilgit Irregulars"
+		type=irregular
+		home=1225
+	}
+	regiment = {
+		name="1st Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+	regiment = {
+		name="1st Multan Artillery"
+		type=artillery
+		home=1228
+	}
+	regiment = {
+		name="1st Mashhad Artillery"
+		type=artillery
+		home=1147
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1231
+	regiment = {
+		name="1st Bandar Abbas Irregulars"
+		type=irregular
+		home=1142
+	}
+	regiment = {
+		name="1st Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="1st Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Zahedan Artillery"
+		type=artillery
+		home=1144
+	}
+	regiment = {
+		name="1st Gurgench Artillery"
+		type=artillery
+		home=1196
+	}
+	regiment = {
+		name="1st Gorgan Artillery"
+		type=artillery
+		home=1116
+	}
+	regiment = {
+		name="1st Srinagar Irregulars"
+		type=irregular
+		home=1224
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1292
+	regiment = {
+		name="1st Kashgar Irregulars"
+		type=irregular
+		home=1594
+	}
+	regiment = {
+		name="1st Gwalior Irregulars"
+		type=irregular
+		home=1270
+	}
+	regiment = {
+		name="1st Udaipur Irregulars"
+		type=irregular
+		home=1269
+	}
+	regiment = {
+		name="1st Sabzevar Artillery"
+		type=artillery
+		home=1149
+	}
+	regiment = {
+		name="4th Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="3rd Srinagar Artillery"
+		type=artillery
+		home=1224
+	}
+}
+
+
+
+army = {
+	name="28th Army"
+	location=1224
+	regiment = {
+		name="1st Simla Irregulars"
+		type=irregular
+		home=1235
+	}
+	regiment = {
+		name="1st Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+	regiment = {
+		name="2nd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="3rd Simla Irregulars"
+		type=irregular
+		home=1235
+	}
+	regiment = {
+		name="2nd Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1268
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="1st Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="1st Gilgit Artillery"
+		type=artillery
+		home=1225
+	}
+	regiment = {
+		name="2nd Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1234
+	regiment = {
+		name="1st Kyzyl-Su Irregulars"
+		type=irregular
+		home=1205
+	}
+	regiment = {
+		name="1st Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="4th Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="2nd Mashhad Artillery"
+		type=artillery
+		home=1147
+	}
+	regiment = {
+		name="3rd Mashhad Artillery"
+		type=artillery
+		home=1147
+	}
+	regiment = {
+		name="1st Bela Artillery"
+		type=artillery
+		home=1222
+	}
+	regiment = {
+		name="1st Sialkot Irregulars"
+		type=irregular
+		home=1229
+	}
+}
+
+
+
+army = {
+	name="3rd Army"
+	location=1870
+	regiment = {
+		name="1st Meerut Cavalry"
+		type=cavalry
+		home=1239
+	}
+	regiment = {
+		name="3rd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="3rd Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="1st Leh Artillery"
+		type=artillery
+		home=1226
+	}
+	regiment = {
+		name="7th Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="8th Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="1st Cawnpore Cavalry"
+		type=cavalry
+		home=1241
+	}
+	regiment = {
+		name="2nd Meerut Cavalry"
+		type=cavalry
+		home=1239
+	}
+	regiment = {
+		name="3rd Meerut Cavalry"
+		type=cavalry
+		home=1239
+	}
+	regiment = {
+		name="1st Agra Cavalry"
+		type=cavalry
+		home=1240
+	}
+	regiment = {
+		name="2nd Agra Cavalry"
+		type=cavalry
+		home=1240
+	}
+	regiment = {
+		name="3rd Agra Cavalry"
+		type=cavalry
+		home=1240
+	}
+	regiment = {
+		name="2nd Cawnpore Cavalry"
+		type=cavalry
+		home=1241
+	}
+	regiment = {
+		name="1st Allahabad Cavalry"
+		type=cavalry
+		home=1243
+	}
+}
+
+army = {
+	name="17th Army"
+	location=2036
+	regiment = {
+		name="1st Kalat Irregulars"
+		type=irregular
+		home=1221
+	}
+	regiment = {
+		name="1st Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="1st Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="1st Kyzyl-Su Artillery"
+		type=artillery
+		home=1205
+	}
+	regiment = {
+		name="9th Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="2nd Lahore Artillery"
+		type=artillery
+		home=1227
+	}
+	regiment = {
+		name="9th Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2786
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Karachi Frigate"
+		type=frigate
+	}
+}
+
+
+
+army = {
+	name="14th Army"
+	location=1218
+	regiment = {
+		name="1st Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="2nd Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="1st Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="3rd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="4th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+	regiment = {
+		name="1st Zhetysu Irregulars"
+		type=irregular
+		home=1186
+	}
+	regiment = {
+		name="1st Jalalabad Artillery"
+		type=artillery
+		home=1216
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1290
+	regiment = {
+		name="2nd Simla Irregulars"
+		type=irregular
+		home=1235
+	}
+	regiment = {
+		name="1st Kunduz Irregulars"
+		type=irregular
+		home=1210
+	}
+	regiment = {
+		name="2nd Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+	regiment = {
+		name="2nd Srinagar Artillery"
+		type=artillery
+		home=1224
+	}
+	regiment = {
+		name="5th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="3rd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="4th Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="3rd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2789
+	ship = {
+		name="5th Sur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chabahar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chabahar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Surat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mughal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karachi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Assab Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Duqm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Assab Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Duqm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bela Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Duqm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tranquebar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chabahar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mughal Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1167
+	regiment = {
+		name="1st Shahpur Irregulars"
+		type=irregular
+		home=1232
+	}
+	regiment = {
+		name="2nd Kashgar Irregulars"
+		type=irregular
+		home=1594
+	}
+	regiment = {
+		name="2nd Cawnpore Artillery"
+		type=artillery
+		home=1241
+	}
+	regiment = {
+		name="2nd Firozpur Artillery"
+		type=artillery
+		home=1234
+	}
+	regiment = {
+		name="6th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="8th Meerut Irregulars"
+		type=irregular
+		home=1239
+	}
+	regiment = {
+		name="1st Kerman Artillery"
+		type=artillery
+		home=1140
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1234
+	regiment = {
+		name="2nd Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="3rd Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="2nd Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="3rd Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="4th Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="5th Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+}
+

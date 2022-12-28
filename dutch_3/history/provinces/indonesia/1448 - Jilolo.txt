@@ -1,0 +1,6 @@
+owner=SUN
+controller=SUN
+add_core=SUN
+add_core=TTE
+trade_goods = fish
+life_rating = 31

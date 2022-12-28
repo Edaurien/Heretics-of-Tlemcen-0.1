@@ -1,0 +1,7 @@
+owner=PBC
+controller=PBC
+add_core=CRA
+add_core=CSU
+add_core=PBC
+trade_goods = cattle
+life_rating = 39

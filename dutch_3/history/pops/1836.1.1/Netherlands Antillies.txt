@@ -1,0 +1,174 @@
+2234 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 810
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1852
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 157
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 345
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 159
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 337
+	}
+
+}

@@ -1,0 +1,112 @@
+#lithuanian question
+country_event = {
+	id = 265452
+	title = EVTNAME265452
+	desc = EVTDESC265452
+	picture = treaty_of_versailles
+	fire_only_once = yes
+	
+	trigger = { 
+		year = 1821
+		month = 1
+		tag = PLC
+	}
+	
+	option = { 
+		name = EVTOPTA265452
+
+		
+		release_vassal = LIT
+		
+		political_reform = universal_weighted_voting
+        political_reform = appointed
+        political_reform = yes_meeting
+        political_reform = state_press
+        political_reform = state_controlled
+        political_reform = harassment
+		
+		any_pop = {
+            limit = {
+                literacy = 0.2
+                pop_majority_ideology = liberal
+            }
+            ideology = { factor = 0.1 value = liberal }
+        }
+        any_pop = {
+            scaled_militancy = {
+                ideology = reactionary
+                factor = 4
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = -2
+            }
+            scaled_militancy = {
+                ideology = liberal
+                factor = -8
+            }
+            scaled_militancy = {
+                ideology = anarcho_liberal
+                factor = -4
+            }
+            scaled_militancy = {
+                ideology = socialist
+                factor = -2
+            }
+        }
+		
+		
+		
+			
+		prestige = -5
+		badboy = -5
+		ai_chance = { factor = 0 }
+		
+    }
+	option = { 
+		name = EVTOPTB265452
+		
+		any_pop = {
+            limit = { has_pop_culture = polish }
+			ideology = {
+                value = liberal
+                factor = 0.20
+            }
+            consciousness = 2
+        }
+		
+		any_pop = {
+            limit = { has_pop_culture = polish }
+            militancy = -3
+			
+        }
+		
+		any_pop = {
+            limit = { is_primary_culture = no }
+            militancy = 4
+			consciousness = 3
+        }
+		
+		any_pop = {
+            scaled_militancy = {
+                ideology = reactionary
+                factor = -4
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = -2
+            }
+            scaled_militancy = {
+                ideology = liberal
+                factor = 4
+            }
+        }
+		
+		prestige = 10
+		ai_chance = { factor = 100 }
+
+		
+    }
+
+}
+

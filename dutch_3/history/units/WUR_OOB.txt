@@ -1,0 +1,21 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="8th Army"
+	location=589
+	
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+}

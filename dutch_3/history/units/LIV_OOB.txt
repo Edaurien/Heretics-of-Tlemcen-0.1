@@ -1,0 +1,144 @@
+#Sphere of Influence
+
+TEU = {
+	value = 150
+	influence_value = 0
+	level = 2
+}
+
+
+#Leaders
+
+#Armies
+
+army = {
+	name="Armia z Kyzyl-Yar"
+	location=354
+	regiment = {
+		name="1st Riga Infantry"
+		type=infantry
+		home=354
+	}
+	regiment = {
+		name="1st Ventspils Infantry"
+		type=infantry
+		home=358
+	}
+	regiment = {
+		name="1st Miltawa Infantry"
+		type=infantry
+		home=357
+	}
+	regiment = {
+		name="2nd Miltawa Infantry"
+		type=infantry
+		home=357
+	}
+	regiment = {
+		name="1st Riga Artillery"
+		type=artillery
+		home=354
+	}
+	regiment = {
+		name="2nd Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+}
+
+
+
+army = {
+	name="Armia z Circassia"
+	location=349
+	regiment = {
+		name="3rd Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="5th Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+	regiment = {
+		name="1st Parnu Artillery"
+		type=artillery
+		home=351
+	}
+	regiment = {
+		name="2nd Parnu Infantry"
+		type=infantry
+		home=351
+	}
+	regiment = {
+		name="2nd Dorpat Infantry"
+		type=infantry
+		home=352
+	}
+	
+	regiment = {
+        name= "3rd Reval Cuirassiers"
+        type = cuirassier
+        home = 349
+    }
+	
+	regiment = {
+        name= "2nd Reval Cuirassiers"
+        type = cuirassier
+        home = 349
+    }
+	
+}
+
+navy = {
+	name="7th Fleet"
+	location=2707
+	ship = {
+		name="4th Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pitcairn Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Mindaugas"
+		type=frigate
+	}
+	ship = {
+		name="Butigeidis"
+		type=frigate
+	}
+	ship = {
+		name="1st Ventspils Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melbourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ribe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Coruña Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stralsund Frigate"
+		type=frigate
+	}
+}
+
+
+

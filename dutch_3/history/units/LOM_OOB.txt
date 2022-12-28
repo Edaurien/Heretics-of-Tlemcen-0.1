@@ -1,0 +1,60 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=728
+	regiment = {
+		name="2nd Milan Artillery"
+		type=artillery
+		home=726
+	}
+	regiment = {
+		name="1st Brescia Infantry"
+		type=infantry
+		home=728
+	}
+	regiment = {
+		name="1st Bergamo Artillery"
+		type=artillery
+		home=727
+	}
+	regiment = {
+		name="3rd Milan Artillery"
+		type=artillery
+		home=726
+	}
+	regiment = {
+		name="4th Milan Artillery"
+		type=artillery
+		home=726
+	}
+	regiment = {
+		name="1st Milan Artillery"
+		type=artillery
+		home=726
+	}
+	regiment = {
+		name="2nd Brescia Infantry"
+		type=infantry
+		home=728
+	}
+	regiment = {
+		name="2nd Bergamo Artillery"
+		type=artillery
+		home=727
+	}
+	regiment = {
+		name="1st Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="2nd Milan Infantry"
+		type=infantry
+		home=726
+	}
+}

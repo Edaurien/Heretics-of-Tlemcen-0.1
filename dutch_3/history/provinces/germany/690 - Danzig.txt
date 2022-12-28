@@ -1,0 +1,12 @@
+owner=PLC
+controller=PLC
+add_core=PLC
+
+
+add_core=TEU
+
+
+
+trade_goods = fish
+life_rating = 40
+naval_base = 2

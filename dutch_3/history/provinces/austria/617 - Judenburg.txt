@@ -1,0 +1,8 @@
+owner=BAV
+controller=BAV
+add_core=BAV
+add_core=STY
+add_core=GER
+add_core=AUS
+trade_goods = iron
+life_rating = 35

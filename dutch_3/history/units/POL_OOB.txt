@@ -1,0 +1,421 @@
+#Sphere of Influence
+ROM = {
+	value = 50
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Marijus Soltyk"
+	date="1807.10.9"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Michal II"
+	date="1808.11.22"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Olbracht Drzewicki"
+	date="1811.8.17"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+
+
+#Armies
+
+army = {
+	name="Armia z Lipsk"
+	location=997
+	regiment = {
+		name="1st Polotsk Infantry"
+		type=infantry
+		home=946
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Königsberg Artillery"
+		type=artillery
+		home=695
+	}
+	regiment = {
+		name="1st Slutsk Artillery"
+		type=artillery
+		home=941
+	}
+	regiment = {
+		name="1st Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=690
+
+
+	ship = {
+		name="4th Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Jelgava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Jelgava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Narva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pitcairn Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Mindaugas"
+		type=frigate
+	}
+	ship = {
+		name="Butigeidis"
+		type=frigate
+	}
+	ship = {
+		name="Vytenis"
+		type=frigate
+	}
+	ship = {
+		name="Gediminas"
+		type=frigate
+	}
+	ship = {
+		name="Algirdas"
+		type=frigate
+	}
+	ship = {
+		name="Kestutis"
+		type=frigate
+	}
+	ship = {
+		name="Jogaila"
+		type=frigate
+	}
+	ship = {
+		name="Vytautas Didysis"
+		type=frigate
+	}
+	ship = {
+		name="Zygimantas Kestutaitis"
+		type=frigate
+	}
+	ship = {
+		name="1st Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Jelgava Man'o'war"
+		type=manowar
+	}
+}
+
+
+
+
+
+army = {
+	name="Armia z Wizna"
+	location=715
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Przemysl Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="2nd Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Bremen Artillery"
+		type=artillery
+		home=539
+	}
+	regiment = {
+		name="1st Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="4th Radom Artillery"
+		type=artillery
+		home=713
+	}
+}
+
+army = {
+	name="Armia z Checiny"
+	location=706
+	regiment = {
+		name="1st Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+	regiment = {
+		name="5th Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="2nd Nitra Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="5th Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+}
+
+army = {
+	name="Armia z Spisz"
+	location=691
+	regiment = {
+		name="2nd Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+	regiment = {
+		name="3rd Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Vilnius Artillery"
+		type=artillery
+		home=360
+	}
+}
+
+
+
+
+
+
+army = {
+	name="Armia z Slavonia"
+	location=951
+	regiment = {
+		name="2nd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="2nd Minsk Infantry"
+		type=infantry
+		home=718
+	}
+	regiment = {
+		name="1st Pastavy Artillery"
+		type=artillery
+		home=947
+	}
+}
+
+army = {
+	name="Armia z Leczyca"
+	location=709
+	regiment = {
+		name="3rd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="2nd Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="1st Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="2nd Lodz Artillery"
+		type=artillery
+		home=712
+	}
+}
+
+army = {
+	name="Armia z Kyzyl-Yar"
+	location=717
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="1st Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+	regiment = {
+		name="2nd Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+}
+
+
+
+army = {
+	name="Armia z Circassia"
+	location=709
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="1st Bielsko Artillery"
+		type=artillery
+		home=2584
+	}
+	regiment = {
+		name="1st Halle Artillery"
+		type=artillery
+		home=556
+	}
+	regiment = {
+		name="2nd Radom Infantry"
+		type=infantry
+		home=713
+	}
+}
+
+
+
+
+
+
+army = {
+	name="Armia z Naklo"
+	location=700
+	regiment = {
+		name="1st Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="1st Kielce Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+	regiment = {
+		name="4th Torun Infantry"
+		type=infantry
+		home=694
+	}
+	regiment = {
+		name="1st Kielce Cavalry"
+		type=cavalry
+		home=716
+	}
+	regiment = {
+		name="1st Lomza Artillery"
+		type=artillery
+		home=709
+	}
+	regiment = {
+		name="3rd Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Kolberg Artillery"
+		type=artillery
+		home=679
+	}
+	regiment = {
+		name="1st Posen Cavalry"
+		type=cavalry
+		home=699
+	}
+	regiment = {
+		name="1st Orsha Cavalry"
+		type=cavalry
+		home=944
+	}
+	regiment = {
+		name="1st Elbing Cavalry"
+		type=cavalry
+		home=693
+	}
+}

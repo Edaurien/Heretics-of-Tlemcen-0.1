@@ -1,0 +1,5 @@
+owner=WCY
+controller=WCY
+add_core=WCY
+trade_goods = grain
+life_rating = 31

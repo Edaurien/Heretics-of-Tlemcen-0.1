@@ -1,0 +1,8 @@
+owner=RYA
+controller=RYA
+add_core=RYA
+add_core=AKH
+add_core=MUS
+add_core=RUS
+trade_goods = grain
+life_rating = 35

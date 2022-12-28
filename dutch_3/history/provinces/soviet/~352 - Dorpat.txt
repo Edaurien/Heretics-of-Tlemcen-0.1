@@ -1,0 +1,9 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+
+add_core=LIV
+add_core=EST
+
+trade_goods = cattle
+life_rating = 35

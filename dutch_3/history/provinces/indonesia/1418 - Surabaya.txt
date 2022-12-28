@@ -1,0 +1,10 @@
+owner=BNJ
+controller=BNJ
+add_core=BLM
+add_core=BNJ
+add_core=DMK
+add_core=JAV
+add_core=MJP
+trade_goods = sulphur
+life_rating = 35
+naval_base = 1

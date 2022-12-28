@@ -1,0 +1,10 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=PER
+add_core=IRQ
+add_core=SRN
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+fort = 1

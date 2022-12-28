@@ -1,0 +1,7 @@
+owner=FZN
+controller=FZN
+add_core=FZN
+trade_goods = wool
+life_rating = 35
+terrain = semidesert
+naval_base = 1

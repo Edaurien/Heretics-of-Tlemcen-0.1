@@ -1,0 +1,10 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=PER
+add_core=KHO
+
+add_core=PER
+trade_goods = coal
+life_rating = 35
+fort = 1

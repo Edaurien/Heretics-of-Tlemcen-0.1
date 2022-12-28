@@ -1,0 +1,9 @@
+owner=CNS
+controller=CNS
+add_core=ALD
+add_core=TUN
+add_core=CNS
+trade_goods = iron
+life_rating = 31
+terrain = semidesert
+

@@ -1,0 +1,6 @@
+owner=BRZ
+controller=BRZ
+add_core=BRZ
+add_core=TPA
+trade_goods = rubber
+life_rating = 31

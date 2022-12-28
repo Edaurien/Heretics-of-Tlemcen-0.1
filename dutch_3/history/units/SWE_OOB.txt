@@ -1,0 +1,55 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+
+navy = {
+	name="8th Fleet"
+	location=322
+	ship = {
+		name="1st Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Esbjerg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stralsund Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jelgava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Schwerin Man'o'war"
+		type=manowar
+	}
+}

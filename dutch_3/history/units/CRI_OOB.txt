@@ -1,0 +1,90 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=973
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=973
+	}
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=971
+	}
+	regiment = {
+		name="3rd Poltava Artillery"
+		type=artillery
+		home=976
+	}
+	regiment = {
+		name="4th Cherkassy Artillery"
+		type=artillery
+		home=974
+	}
+	regiment = {
+		name="1st Yekatirinoslav Infantry"
+		type=infantry
+		home=978
+	}
+	regiment = {
+		name="4th Poltava Cavalry"
+		type=cavalry
+		home=978
+	}
+	regiment = {
+		name="3rd Poltava Cavalry"
+		type=cavalry
+		home=980
+	}
+	regiment = {
+		name="2nd Poltava Cavalry"
+		type=cavalry
+		home=980
+	}
+}
+
+army = {
+	name="Armia z Wizna"
+	location=1048
+	regiment = {
+		name="1st Czernihow Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="1st Czernihow Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="2nd Kicow Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="4th Zhitomir Artillery"
+		type=artillery
+		home=1019
+	}
+	regiment = {
+		name="1st Korosten Cavalry"
+		type=cavalry
+		home=979
+	}
+	regiment = {
+		name="1st Kicow Cavalry"
+		type=cavalry
+		home=1047
+	}
+	regiment = {
+		name="1st Czernihow Cavalry"
+		type=cavalry
+		home=1048
+	}
+}

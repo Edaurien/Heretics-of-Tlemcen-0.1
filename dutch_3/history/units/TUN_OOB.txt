@@ -1,0 +1,218 @@
+#Sphere of Influence
+
+
+
+#Leaders
+leader = {
+	name="Fayiz Badra"
+	date="1773.2.8"
+	type=land
+	personality="intuitive"
+	background="bootlicker"
+}
+
+leader = {
+	name="Muhammad VI Timurid"
+	date="1813.3.1"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Torgud Hakimi"
+	date="1792.4.13"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=1725
+	
+	regiment = {
+		name="1st Bizerte Cavalry"
+		type=cavalry
+		home=1726
+	}
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1727
+	}
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1725
+	}
+
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tripoli Infantry"
+		type=infantry
+		home=1731
+	}
+	regiment = {
+		name="1st Tunis Cavalry"
+		type=cavalry
+		home=1702
+	}
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1740
+	}
+	
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1730
+	}
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="1st Biskra Artillery"
+		type=artillery
+		home=1710
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1728
+		regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="1st Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+	regiment = {
+		name="1st Setif Irregulars"
+		type=irregular
+		home=1702
+	}
+	regiment = {
+		name="1st Bougie Irregulars"
+		type=irregular
+		home=1701
+	}
+	regiment = {
+		name="1st Bougie Irregulars"
+		type=irregular
+		home=1701
+	}
+}
+
+
+
+navy = {
+	name="6th Fleet"
+	location=2755
+	ship = {
+		name="1st Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kairouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Safi Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2755
+	
+}
+

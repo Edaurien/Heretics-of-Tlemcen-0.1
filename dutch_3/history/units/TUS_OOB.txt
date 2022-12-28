@@ -1,0 +1,15 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=751
+	regiment = {
+		name="1st Massa Artillery"
+		type=artillery
+		home=740
+	}
+}

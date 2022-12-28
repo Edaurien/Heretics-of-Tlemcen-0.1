@@ -1,0 +1,10 @@
+owner=SCA
+controller=SCA
+add_core=SCA
+add_core = FIN
+
+add_core=NVG
+
+add_core=SMI
+trade_goods = sulphur
+life_rating = 10

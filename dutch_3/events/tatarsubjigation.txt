@@ -1,0 +1,15 @@
+country_event = {
+    id = 26510
+    title = "EVTNAME26510" #The Tatar Question
+    desc = "EVTDESC26510"
+    picture = "2nd_circassian_war"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVT26510OPTA"
+		war = {
+			target = GRH
+			attacker_goal = { casus_belli = establish_protectorate_casus_belli }
+			defender_goal = { casus_belli = status_quo }
+		}

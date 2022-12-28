@@ -1,0 +1,10 @@
+owner=SAX
+controller=SAX
+add_core=SAX
+
+add_core=COB
+add_core=GER
+
+add_core=THU
+trade_goods = iron
+life_rating = 40

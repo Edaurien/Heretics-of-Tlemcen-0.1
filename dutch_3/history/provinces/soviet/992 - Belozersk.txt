@@ -1,0 +1,8 @@
+owner=X12
+controller=X12
+add_core=NVG
+add_core=RUS
+add_core=X12
+add_core=TVE
+trade_goods = cattle
+life_rating = 35

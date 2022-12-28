@@ -1,0 +1,5 @@
+owner=PEO
+controller=PEO
+add_core=PEO
+trade_goods = fish
+life_rating = 35

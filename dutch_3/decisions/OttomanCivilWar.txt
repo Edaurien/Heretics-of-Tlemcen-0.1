@@ -1,0 +1,21 @@
+
+
+political_decisions = {
+	hungary_peace_deal = {
+		
+		potential = {	
+			tag = TUR
+		}
+		
+		allow = {
+			tag = TUR
+			HUN = {
+				has_recently_lost_war = yes
+				truce_with = TUR
+			}
+			NOT = {
+			year = 1848
+			}
+		}
+	}
+}

@@ -1,0 +1,115 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+
+army = {
+	name="Armia z Wilkimierz"
+	location=942
+	regiment = {
+		name="2nd Slutsk Infantry"
+		type=infantry
+		home=941
+	}
+	regiment = {
+		name="6th Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="2nd Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="2nd Minsk Infantry"
+		type=infantry
+		home=718
+	}
+}
+
+
+army = {
+	name="Armia z Beljamen"
+	location=948
+	regiment = {
+		name="1st Vitebsk Infantry"
+		type=infantry
+		home=945
+	}
+	regiment = {
+		name="2nd Mogliev Infantry"
+		type=infantry
+		home=948
+	}
+	regiment = {
+		name="3rd Orsha Infantry"
+		type=infantry
+		home=949
+	}
+	regiment = {
+		name="2nd Polotsk Artillery"
+		type=artillery
+		home=946
+	}
+	regiment = {
+		name="1st Bialystok Artillery"
+		type=artillery
+		home=719
+	}
+	regiment = {
+		name="1st Pastavy Artillery"
+		type=artillery
+		home=947
+	}
+	regiment = {
+		name="3rd Nitra Artillery"
+		type=artillery
+		home=363
+	}
+	regiment = {
+		name="5th Baranovichi Artillery"
+		type=artillery
+		home=939
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=365
+
+	ship = {
+		name="1st Königsberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Liepaja Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Danzig Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd  Man'o'war"
+		type=manowar
+	}
+}

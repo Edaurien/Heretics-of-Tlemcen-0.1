@@ -1,0 +1,9 @@
+owner = ORM
+controller = ORM
+add_core = ORM
+
+add_core=PER
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+naval_base = 2

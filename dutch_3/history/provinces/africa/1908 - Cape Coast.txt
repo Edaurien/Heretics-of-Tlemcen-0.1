@@ -1,0 +1,6 @@
+owner=JNN
+controller=JNN
+add_core=ASH
+add_core=JNN
+trade_goods = coffee
+life_rating = 35

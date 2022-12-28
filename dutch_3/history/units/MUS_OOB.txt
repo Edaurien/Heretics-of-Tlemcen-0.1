@@ -1,0 +1,104 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+
+army = {
+	name="6th Army"
+	location=1008
+	
+	regiment = {
+		name="1st Bizerte Cavalry"
+		type=cavalry
+		home=1726
+	}
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1727
+	}
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1725
+	}
+
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tripoli Infantry"
+		type=infantry
+		home=1731
+	}
+	regiment = {
+		name="1st Tunis Cavalry"
+		type=cavalry
+		home=1702
+	}
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1740
+	}
+	
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1730
+	}
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="1st Biskra Artillery"
+		type=artillery
+		home=1710
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1009
+		regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tunis Infantry"
+		type=infantry
+		home=1725
+	}
+	regiment = {
+		name="1st Tunis Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="1st Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+	regiment = {
+		name="1st Setif Irregulars"
+		type=irregular
+		home=1702
+	}
+	regiment = {
+		name="1st Bougie Irregulars"
+		type=irregular
+		home=1701
+	}
+	regiment = {
+		name="1st Bougie Irregulars"
+		type=irregular
+		home=1701
+	}
+}

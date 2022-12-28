@@ -1,0 +1,181 @@
+45 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 12
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 24782
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 3809
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 54
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 457
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 26100
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 289
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1156
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 58
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 818
+	}
+
+}

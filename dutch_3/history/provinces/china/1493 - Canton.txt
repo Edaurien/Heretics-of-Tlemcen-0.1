@@ -1,0 +1,7 @@
+owner=GNG
+controller=GNG
+add_core=GNG
+add_core=YUE
+trade_goods = fish
+life_rating = 32
+fort = 1

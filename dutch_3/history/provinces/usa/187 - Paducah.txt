@@ -1,0 +1,6 @@
+owner=UIL
+controller=UIL
+add_core=UIL
+add_core=VRM
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,8 @@
+owner=TUL
+controller=TUL
+add_core=TUL
+add_core=FRA
+add_core=GYN
+add_core=OCC
+trade_goods = grain
+life_rating = 31

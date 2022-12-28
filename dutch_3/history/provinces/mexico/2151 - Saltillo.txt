@@ -1,0 +1,5 @@
+owner=HST
+controller=HST
+add_core=HST
+trade_goods = dye
+life_rating = 35

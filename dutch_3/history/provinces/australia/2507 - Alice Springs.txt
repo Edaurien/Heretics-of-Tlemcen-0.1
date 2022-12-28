@@ -1,0 +1,8 @@
+owner=IBR
+controller=IBR
+add_core=AUY
+add_core=TIW
+trade_goods = cattle
+life_rating = 15
+terrain = semidesert
+colonial=2

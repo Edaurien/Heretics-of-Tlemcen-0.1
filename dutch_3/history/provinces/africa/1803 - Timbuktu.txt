@@ -1,0 +1,9 @@
+owner = SGH
+controller = SGH
+add_core = SGH
+add_core = SEG
+add_core = MAS
+add_core = DND
+trade_goods = cattle
+terrain = semidesert
+life_rating = 35

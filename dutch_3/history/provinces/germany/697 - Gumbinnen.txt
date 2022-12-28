@@ -1,0 +1,9 @@
+owner=BRN
+controller=BRN
+add_core=BRN
+
+add_core=TEU
+
+
+trade_goods = grain
+life_rating = 40

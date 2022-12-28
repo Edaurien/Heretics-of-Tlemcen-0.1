@@ -1,0 +1,10 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+
+add_core=TEU
+add_core=LIV
+
+trade_goods = fish
+life_rating = 40
+fort = 1

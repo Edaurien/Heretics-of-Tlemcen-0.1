@@ -1,0 +1,290 @@
+#Sphere of Influence
+
+
+#Leaders
+leader = {
+	name="Hernando Gálvez"
+	date="1804.7.4"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Miguel Tellez-Girón"
+	date="1805.8.25"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Vicente Tellez-Girón"
+	date="1805.11.29"
+	type=sea
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Guillermo Ponce de León"
+	date="1813.9.10"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Hernando de Guzmán"
+	date="1813.9.11"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Domingo Nuñez de Balboa"
+	date="1817.10.7"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+
+
+army = {
+	name="13th Army"
+	location=2340
+	regiment = {
+		name="1st Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Forte do Príncipe Infantry"
+		type=infantry
+		home=2550
+	}
+	regiment = {
+		name="1st Puca Urco Artillery"
+		type=artillery
+		home=2289
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="2nd El Encanto Artillery"
+		type=artillery
+		home=2263
+	}
+	regiment = {
+		name="2nd Ica Artillery"
+		type=artillery
+		home=2297
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=2295
+	regiment = {
+		name="1st Antofagasta Infantry"
+		type=infantry
+		home=2305
+	}
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st Puca Urco Infantry"
+		type=infantry
+		home=2289
+	}
+	regiment = {
+		name="1st Pucallpa Artillery"
+		type=artillery
+		home=2300
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="2nd Pucallpa Artillery"
+		type=artillery
+		home=2300
+	}
+	regiment = {
+		name="1st Cobija Infantry"
+		type=infantry
+		home=2321
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2283
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="2nd La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="2nd Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="2nd Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="1st Zamora Artillery"
+		type=artillery
+		home=2283
+	}
+	regiment = {
+		name="1st Iquitos Infantry"
+		type=infantry
+		home=2286
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2979
+	ship = {
+		name="Alto Paraguay"
+		type=frigate
+	}
+	ship = {
+		name="Constitución"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2307
+	ship = {
+		name="Encarnación"
+		type=manowar
+	}
+	ship = {
+		name="San José"
+		type=manowar
+	}
+	ship = {
+		name="San Juan"
+		type=manowar
+	}
+	ship = {
+		name="San Juan Bautista"
+		type=manowar
+	}
+	ship = {
+		name="San Lorenzo"
+		type=manowar
+	}
+	ship = {
+		name="San Pedro"
+		type=manowar
+	}
+}
+
+
+
+navy = {
+	name="2nd Fleet"
+	location=2996
+	ship = {
+		name="Bajo Paraguay"
+		type=frigate
+	}
+	ship = {
+		name="Boquerón"
+		type=frigate
+	}
+	ship = {
+		name="Gran Chaco"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2297
+	ship = {
+		name="Angostura"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella de los Mares"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gigante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Intrépida"
+		type=clipper_transport
+	}
+	ship = {
+		name="Júpiter"
+		type=clipper_transport
+	}
+	ship = {
+		name="Libre"
+		type=clipper_transport
+	}
+	ship = {
+		name="Marte"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neptuno"
+		type=clipper_transport
+	}
+	ship = {
+		name="Plutón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Reducción"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Honorato"
+		type=clipper_transport
+	}
+}
+

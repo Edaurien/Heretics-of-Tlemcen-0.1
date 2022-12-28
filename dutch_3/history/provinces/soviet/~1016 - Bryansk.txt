@@ -1,0 +1,9 @@
+owner=SMK
+controller=SMK
+add_core=SMK
+add_core=MUS
+add_core=RUS
+add_core=BYE
+
+trade_goods = cattle
+life_rating = 35

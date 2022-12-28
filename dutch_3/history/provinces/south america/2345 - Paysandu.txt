@@ -1,0 +1,5 @@
+owner=PLG
+controller=PLG
+add_core=PLG
+trade_goods = grain
+life_rating = 35

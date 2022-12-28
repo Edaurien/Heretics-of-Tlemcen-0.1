@@ -1,0 +1,5 @@
+owner=LUW
+controller=HSC
+add_core=LUW
+trade_goods = dye
+life_rating = 31

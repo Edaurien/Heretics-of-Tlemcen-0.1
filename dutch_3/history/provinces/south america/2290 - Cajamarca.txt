@@ -1,0 +1,6 @@
+owner=PBC
+controller=PBC
+add_core=PBC
+add_core=CSU
+trade_goods = coal
+life_rating = 35

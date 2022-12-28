@@ -1,0 +1,83 @@
+political_decisions = {
+
+    Tlemcen_Beat_Spain = {
+        potential = {
+			truce_with = IBR
+			1704 = {
+				owned_by = IBR
+			}
+            tag = TLC
+            NOT = {
+				war_with = IBR
+				}
+            
+        }
+
+        allow = {
+			truce_with = IBR
+			NOT = {
+				war_with = IBR
+			}
+            
+        }
+
+        effect = {
+			prestige = 20
+			1704 = {
+				secede_province = TLC
+			}
+		}
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	
+	Morocco_Beat_Spain = {
+        potential = {
+			truce_with = IBR
+			OR = {
+				2590 = {
+					owned_by = IBR
+				}
+				1689 = {
+					owned_by = IBR
+				}
+				1695 = {
+					owned_by = IBR
+				}
+			}
+            tag = MOR
+            NOT = {
+				war_with = IBR
+			}
+            
+        }
+
+        allow = {
+			truce_with = IBR
+			NOT = {
+				war_with = IBR
+			}
+        }
+
+        effect = {
+			prestige = 20
+			2590 = {
+				secede_province = MOR
+			}
+			1689 = {
+				secede_province = MOR
+			}
+			1695 = {
+				secede_province = MOR
+			}
+		}
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	
+}
+

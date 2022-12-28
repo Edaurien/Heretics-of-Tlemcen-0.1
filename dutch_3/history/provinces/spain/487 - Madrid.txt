@@ -1,0 +1,12 @@
+owner=IBR
+controller=IBR
+add_core=SPA
+add_core=IBR
+trade_goods = cattle
+life_rating = 40
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

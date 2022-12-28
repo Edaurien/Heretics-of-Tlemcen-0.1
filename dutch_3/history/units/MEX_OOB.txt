@@ -1,0 +1,974 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ALQ = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 144
+	influence_value = 23
+	level = 3
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = 40
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -31
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+HSC = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KMK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MBZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 9
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -18
+	level = 2
+}
+NHY = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+OJI = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 36
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 7
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = -51
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SCA = {
+	value = 46
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -80
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TVE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = -8
+	level = 2
+}
+WAD = {
+	value = 0
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+X01 = {
+	value = -20
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ramiro de Zúñiga"
+	date="1798.1.28"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Antonio Grimaldi"
+	date="1810.8.20"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Gabriel Osorio"
+	date="1810.8.28"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Juan Elhuyar"
+	date="1814.3.4"
+	type=sea
+	personality="stalwart"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=137
+	ship = {
+		name="México"
+		type=manowar
+	}
+	ship = {
+		name="Morales"
+		type=manowar
+	}
+	ship = {
+		name="Yucatán"
+		type=manowar
+	}
+	ship = {
+		name="Vicente Guerrero"
+		type=manowar
+	}
+	ship = {
+		name="Zaragoza"
+		type=manowar
+	}
+	ship = {
+		name="Nuevo León"
+		type=manowar
+	}
+	ship = {
+		name="Guadalupe Victoria"
+		type=manowar
+	}
+	ship = {
+		name="Miguel Hidalgo"
+		type=manowar
+	}
+	ship = {
+		name="Mariano Matamoros"
+		type=manowar
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=87
+	ship = {
+		name="José María Morelos"
+		type=manowar
+	}
+	ship = {
+		name="Agustín de Itúrbide"
+		type=manowar
+	}
+	ship = {
+		name="1st Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tapachula Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Laredo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Laredo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Xicoténcatl"
+		type=manowar
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2159
+	regiment = {
+		name="1st Truckee Infantry"
+		type=infantry
+		home=86
+	}
+	regiment = {
+		name="1st Monclova Artillery"
+		type=artillery
+		home=2152
+	}
+	regiment = {
+		name="1st Los Angeles Artillery"
+		type=artillery
+		home=89
+	}
+	regiment = {
+		name="1st San Diego Artillery"
+		type=artillery
+		home=90
+	}
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="1st Ciudad Victoria Artillery"
+		type=artillery
+		home=2150
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2162
+	ship = {
+		name="California"
+		type=frigate
+	}
+	ship = {
+		name="Chihuahua"
+		type=frigate
+	}
+	ship = {
+		name="Durango"
+		type=frigate
+	}
+	ship = {
+		name="Aldabaran"
+		type=frigate
+	}
+	ship = {
+		name="Veracrúz"
+		type=frigate
+	}
+	ship = {
+		name="3rd Laredo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Laredo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Matamoros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Matamoros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Lempira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Puerto Lempira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th San Antonio Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mérida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Matamoros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Tlaxcala"
+		type=frigate
+	}
+	ship = {
+		name="Jalisco"
+		type=frigate
+	}
+	ship = {
+		name="4th Matamoros Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=83
+	regiment = {
+		name="1st Querétaro Infantry"
+		type=infantry
+		home=2173
+	}
+	regiment = {
+		name="1st Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="1st Belize Infantry"
+		type=infantry
+		home=2190
+	}
+	regiment = {
+		name="1st Morelia Infantry"
+		type=infantry
+		home=2170
+	}
+	regiment = {
+		name="1st San Luis Potosí Infantry"
+		type=infantry
+		home=2159
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2203
+	regiment = {
+		name="2nd Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st Puerto Lempira Cavalry"
+		type=cavalry
+		home=2196
+	}
+	regiment = {
+		name="1st San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="1st San Antonio Artillery"
+		type=artillery
+		home=137
+	}
+	regiment = {
+		name="2nd Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st Zacatecas Cavalry"
+		type=cavalry
+		home=2158
+	}
+	regiment = {
+		name="1st Guanajuato Cavalry"
+		type=cavalry
+		home=2167
+	}
+	regiment = {
+		name="1st Acapulco Artillery"
+		type=artillery
+		home=2179
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2185
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="1st Monclova Infantry"
+		type=infantry
+		home=2152
+	}
+	regiment = {
+		name="1st Torreón Infantry"
+		type=infantry
+		home=2155
+	}
+	regiment = {
+		name="1st Collataro Infantry"
+		type=infantry
+		home=2178
+	}
+	regiment = {
+		name="1st Laredo Artillery"
+		type=artillery
+		home=138
+	}
+	regiment = {
+		name="1st Guadalajara Artillery"
+		type=artillery
+		home=2166
+	}
+	regiment = {
+		name="1st Parral Artillery"
+		type=artillery
+		home=2145
+	}
+	regiment = {
+		name="5th Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+}
+
+army = {
+	name="10th Army"
+	location=100
+	regiment = {
+		name="2nd Querétaro Infantry"
+		type=infantry
+		home=2173
+	}
+	regiment = {
+		name="3rd Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st Mojave Infantry"
+		type=infantry
+		home=88
+	}
+	regiment = {
+		name="2nd Morelia Infantry"
+		type=infantry
+		home=2170
+	}
+	regiment = {
+		name="1st Ocos Artillery"
+		type=artillery
+		home=2628
+	}
+	regiment = {
+		name="2nd San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="1st Austin Artillery"
+		type=artillery
+		home=133
+	}
+	regiment = {
+		name="1st La Mesilla Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="3rd Guadalajara Artillery"
+		type=artillery
+		home=2166
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2192
+	regiment = {
+		name="1st Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+	regiment = {
+		name="2nd Guadalajara Artillery"
+		type=artillery
+		home=2166
+	}
+	regiment = {
+		name="1st Morelia Artillery"
+		type=artillery
+		home=2170
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2148
+	regiment = {
+		name="4th Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+}
+

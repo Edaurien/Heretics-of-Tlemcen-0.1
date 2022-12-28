@@ -1,0 +1,6 @@
+owner=HSC
+controller=ENG
+add_core=ENG
+add_core=HSC
+trade_goods = fish
+life_rating = 10

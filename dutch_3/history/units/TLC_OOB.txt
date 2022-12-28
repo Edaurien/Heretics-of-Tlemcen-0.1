@@ -1,0 +1,119 @@
+#Sphere of Influence
+TUN = {
+	value = 100
+	military_access = yes
+	level = 2
+}
+
+MOR = {
+	value = 100
+	military_access = yes
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Zaydân Alami"
+	date="1795.7.2"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Sulaymân Berui"
+	date="1812.12.18"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Umar Skah"
+	date="1816.1.6"
+	type=land
+	personality="disciplined"
+	background="brownnoser"
+}
+
+
+#Armies
+
+
+army = {
+	name="1st Army"
+	location=1703
+	regiment = {
+		name="1st Tlemceni Irregulars"
+		type=irregular
+		home=1705
+	}
+	regiment = {
+		name="1st Mascara Infantry"
+		type=infantry
+		home=1707
+	}
+	
+	regiment = {
+		name="1st Medea Irregulars"
+		type=irregular
+		home=1703
+	}
+	
+	regiment = {
+		name="1st Mustghanim Infantry"
+		type=infantry
+		home=1706
+	}
+	regiment = {
+		name="1st Laghwat Artillery"
+		type=artillery
+		home=1713
+	}
+	regiment = {
+		name="1st Warzazat Artillery"
+		type=artillery
+		home=1715
+	}
+	regiment = {
+		name="2nd Agadir Artillery"
+		type=artillery
+		home=1715
+	}
+	regiment = {
+		name="1st Medea Infantry"
+		type=infantry
+		home=1703
+	}
+	regiment = {
+		name="1st Algiers Cavalry"
+		type=cavalry
+		home=1700
+	}
+	regiment = {
+		name="1st Tlemceni Cavalry"
+		type=cavalry
+		home=1705
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2755
+	ship = {
+		name="1st Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sawira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Agadir Frigate"
+		type=frigate
+	}
+}

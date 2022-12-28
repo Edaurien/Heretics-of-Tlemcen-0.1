@@ -1,0 +1,80 @@
+#Sphere of Influence
+
+
+MNX = {
+	value = 228
+	military_access = yes
+	influence_value = 44
+	level = 2
+}
+
+
+#Leaders
+leader = {
+	name="Matthew Saunders"
+	date="1796.12.21"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Benjamin Fairfax"
+	date="1799.2.24"
+	type=land
+	personality="coolminded"
+	background="artillerist"
+}
+
+leader = {
+	name="Andrew Hudson"
+	date="1810.9.21"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jacob Bedford"
+	date="1811.11.29"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="William Henry Fairfax"
+	date="1815.7.16"
+	type=sea
+	personality="persistant"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="Blue Squadron"
+	location=263
+	ship = {
+		name="Royal Albert"
+		type=manowar
+	}
+}
+
+navy = {
+	name="White Squadron"
+	location=263
+	ship = {
+		name="1st Isle of Man Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Londonderry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Isle of Man Clipper Transport"
+		type=clipper_transport
+	}
+}
+

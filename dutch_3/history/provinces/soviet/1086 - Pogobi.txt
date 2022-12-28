@@ -1,0 +1,8 @@
+owner=KHA
+controller=KHA
+add_core=CHI
+add_core=KHA
+add_core=MCK
+trade_goods = fish
+life_rating = 15
+colonial=2

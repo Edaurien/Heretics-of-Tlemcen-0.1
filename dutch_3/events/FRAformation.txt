@@ -1,0 +1,77 @@
+country_event = {
+
+    id = 465401
+    title = "EVTNAME465401"
+    desc = "EVTDESC465401"
+
+    trigger = {
+		year = 1849
+        primary_culture = french
+        war = no
+        is_vassal = no
+        ai = yes
+        NOT = {
+			tag = LOR
+            tag = ORL
+            exists = FRA
+            truce_with = ORL
+            has_country_flag = attempted_orleanist_union
+        }
+        OR = {
+            part_of_sphere = no
+            sphere_owner = { is_sphere_leader_of = ORL }
+            in_sphere = ORL
+            
+        }
+        OR = {
+            ORL = {
+                war = no
+                neighbour = THIS
+                is_vassal = no
+            }
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 12
+    }
+
+    option = {
+        name = "EVT465401OPTA"
+        set_country_flag = attempted_orleanist_union
+        random_owned = {
+            limit = {
+                ORL = { exists = yes }
+            }
+            owner = {
+                all_core = { add_core = ORL }
+            }
+        }
+        
+
+        random_country = {
+            limit = {
+                OR = {
+                    tag = ORL
+                    
+                }
+                exists = yes
+                ai = yes
+            }
+            prestige = 10
+            inherit = THIS
+        }
+        random_country = {
+            limit = {
+                OR = {
+                    tag = ORL
+                    
+                }
+                exists = yes
+                ai = no
+            }
+            prestige = 10
+            country_event = 60130
+        }
+    }
+}

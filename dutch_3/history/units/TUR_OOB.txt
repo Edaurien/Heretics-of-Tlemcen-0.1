@@ -1,0 +1,813 @@
+#Sphere of Influence
+MOR = {
+	value = 100
+	military_access = yes
+	influence_value = 50
+	level = 4
+}
+TUN = {
+	value = 101
+	military_access = yes
+	influence_value = 50
+	level = 4
+}
+TLC = {
+	value = 101
+	military_access = yes
+	influence_value = 50
+	level = 4
+}
+
+
+#Leaders
+leader = {
+	name="Sinan Ayas"
+	date="1808.8.25"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Osman Bey"
+	date="1816.4.22"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Izzeddin Civan"
+	date="1816.9.19"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Mehmed Civan"
+	date="1818.2.22"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Abdülmecid Sari"
+	date="1818.4.14"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="Aegean Sea Donanmasî"
+	location=860
+	ship = {
+		name="Osmaniye"
+		type=manowar
+	}
+	ship = {
+		name="Mahmudiye"
+		type=manowar
+	}
+	ship = {
+		name="Orhaniye"
+		type=manowar
+	}
+	ship = {
+		name="Abdülaziz"
+		type=manowar
+	}
+	ship = {
+		name="Asar-i Tevfik"
+		type=manowar
+	}
+	ship = {
+		name="Asar-i Sevket"
+		type=manowar
+	}
+	ship = {
+		name="Nijimi Sevket"
+		type=manowar
+	}
+	ship = {
+		name="Avni Illah"
+		type=manowar
+	}
+	ship = {
+		name="Idjalieh"
+		type=manowar
+	}
+	ship = {
+		name="Fethi Belund"
+		type=manowar
+	}
+	ship = {
+		name="Mukaddeme-i Hayir"
+		type=manowar
+	}
+	ship = {
+		name="Gayret-i Vataniye"
+		type=manowar
+	}
+	ship = {
+		name="Yadigar-i Millet"
+		type=manowar
+	}
+	ship = {
+		name="Muavenet-i Millet"
+		type=manowar
+	}
+	ship = {
+		name="Numune-i Hamiyet"
+		type=manowar
+	}
+	ship = {
+		name="Adatepe"
+		type=manowar
+	}
+	ship = {
+		name="Kocatepe"
+		type=manowar
+	}
+	ship = {
+		name="Tinaztepe"
+		type=manowar
+	}
+	ship = {
+		name="Zafer"
+		type=manowar
+	}
+	ship = {
+		name="Demirhisar"
+		type=manowar
+	}
+	ship = {
+		name="Sultanhisar"
+		type=manowar
+	}
+	ship = {
+		name="2nd Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salerno Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Üsküdar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Burgas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Burgas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Timsah"
+		type=frigate
+	}
+	ship = {
+		name="Simir-i Hidsum"
+		type=frigate
+	}
+	ship = {
+		name="Gilyom"
+		type=frigate
+	}
+	ship = {
+		name="Nasir"
+		type=frigate
+	}
+	ship = {
+		name="Ejder"
+		type=frigate
+	}
+	ship = {
+		name="Yunus"
+		type=frigate
+	}
+	ship = {
+		name="Draç"
+		type=frigate
+	}
+	ship = {
+		name="Sivrihisar"
+		type=frigate
+	}
+	ship = {
+		name="Nilüfer"
+		type=frigate
+	}
+	ship = {
+		name="Rana"
+		type=frigate
+	}
+	ship = {
+		name="Doruk Reis"
+		type=frigate
+	}
+	ship = {
+		name="Hizir Reis"
+		type=frigate
+	}
+	ship = {
+		name="Timur Hisar"
+		type=frigate
+	}
+	ship = {
+		name="Kos"
+		type=frigate
+	}
+	ship = {
+		name="Nuribar"
+		type=frigate
+	}
+	ship = {
+		name="Pelenk-i Derya"
+		type=frigate
+	}
+	ship = {
+		name="Ceyhan"
+		type=frigate
+	}
+	ship = {
+		name="Yar Hisar"
+		type=frigate
+	}
+	ship = {
+		name="Mahmud Sevket Pasha"
+		type=frigate
+	}
+	ship = {
+		name="Malatya"
+		type=frigate
+	}
+	ship = {
+		name="Kütahya"
+		type=frigate
+	}
+	ship = {
+		name="Yozgat"
+		type=frigate
+	}
+	ship = {
+		name="1st Vlore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Izmit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Athens Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kavala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ancona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Adana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gallipoli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kerema Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shkoder Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Adana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ottoman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ottoman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Viterbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ottoman Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Udine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmit Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Kirim Ordusu"
+	location=817
+	regiment = {
+		name="1st Chania Infantry"
+		type=irregular
+		home=847
+	}
+	regiment = {
+		name="1st Sinop Infantry"
+		type=irregular
+		home=883
+	}
+	regiment = {
+		name="1st Giresun Artillery"
+		type=artillery
+		home=884
+	}
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=884
+	}
+	
+}
+
+
+army = {
+	name="Circassian Guards"
+	location=862
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=irregular
+		home=860
+	}
+	regiment = {
+		name="2nd Istanbul Infantry"
+		type=irregular
+		home=860
+	}
+	regiment = {
+		name="3rd Istanbul Infantry"
+		type=irregular
+		home=860
+	}
+	regiment = {
+		name="4th Afyon Infantry"
+		type=infantry
+		home=866
+	}
+	regiment = {
+		name="1st Kirklareli Infantry"
+		type=infantry
+		home=858
+	}
+	regiment = {
+		name="2nd Kirklareli Infantry"
+		type=irregular
+		home=858
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=810
+	regiment = {
+		name="1st Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="2nd Sofia Infantry"
+		type=irregular
+		home=809
+	}
+	regiment = {
+		name="3rd Sofia Infantry"
+		type=irregular
+		home=809
+	}
+	regiment = {
+		name="4th Pleven Infantry"
+		type=irregular
+		home=812
+	}
+	regiment = {
+		name="5th Pleven Infantry"
+		type=irregular
+		home=812
+	}
+	regiment = {
+		name="6th Antalya Infantry"
+		type=infantry
+		home=875
+	}
+	regiment = {
+		name="1st Bursa Artillery"
+		type=artillery
+		home=863
+	}
+}
+
+army = {
+	name="Levends"
+	location=795
+	regiment = {
+		name="1st Uskudar Infantry"
+		type=infantry
+		home=861
+	}
+	regiment = {
+		name="2nd Uskudar Infantry"
+		type=irregular
+		home=861
+	}
+	regiment = {
+		name="3rd Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="4th Konya Infantry"
+		type=irregular
+		home=873
+	}
+	regiment = {
+		name="5th Konya Infantry"
+		type=irregular
+		home=873
+	}
+	regiment = {
+		name="1st Konya Artillery"
+		type=artillery
+		home=873
+	}
+	regiment = {
+		name="2nd Prizren Artillery"
+		type=artillery
+		home=803
+	}
+	regiment = {
+		name="3rd Pristina irregulars"
+		type=irregular
+		home=802
+	}
+	regiment = {
+		name="6th Nis irregulars"
+		type=irregular
+		home=798
+	}
+	regiment = {
+		name="4th Novi Pazar Artillery"
+		type=artillery
+		home=804
+	}
+}
+
+army = {
+	name="Bedouin Auxiliaries"
+	location=859
+	regiment = {
+		name="1st Ankara Irregulars"
+		type=irregular
+		home=876
+	}
+	regiment = {
+		name="2nd Ankara Irregulars"
+		type=irregular
+		home=876
+	}
+	regiment = {
+		name="3rd Filibe Irregulars"
+		type=irregular
+		home=815
+	}
+	regiment = {
+		name="4th Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+	regiment = {
+		name="5th Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="8th Dedeagatch Infantry"
+		type=infantry
+		home=830
+	}
+}
+
+army = {
+	name="Independent Cossack Host"
+	location=869
+	regiment = {
+		name="1st Burdur irregular"
+		type=irregular
+		home=874
+	}
+	regiment = {
+		name="2nd Burdur irregular"
+		type=irregular
+		home=874
+	}
+	regiment = {
+		name="3rd Izmir irregular"
+		type=irregular
+		home=869
+	}
+	regiment = {
+		name="4th Mugla Infantry"
+		type=infantry
+		home=872
+	}
+	regiment = {
+		name="5th Denizli Infantry"
+		type=infantry
+		home=871
+	}
+	regiment = {
+		name="1st Sivas Artillery"
+		type=artillery
+		home=879
+	}
+}
+
+army = {
+	name="Kîrîm Ordusu"
+	location=789
+	regiment = {
+		name="1st Amasya Infantry"
+		type=infantry
+		home=877
+	}
+	regiment = {
+		name="1st Izmit Irregulars"
+		type=irregular
+		home=862
+	}
+	regiment = {
+		name="1st Mersin Irregulars"
+		type=irregular
+		home=895
+	}
+	regiment = {
+		name="1st Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+}
+
+army = {
+	name="Kastamonu Ordusu"
+	location=786
+	regiment = {
+		name="6th Leskovae Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="1st Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="2nd Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="3rd Leskovae Artillery"
+		type=artillery
+		home=799
+	}
+}
+
+
+
+
+
+army = {
+	name="Anadolu Ordusu"
+	location=882
+	regiment = {
+		name="2nd Sinop irregulars"
+		type=irregular
+		home=883
+	}
+	regiment = {
+		name="1st Kutahya Artillery"
+		type=artillery
+		home=867
+	}
+	regiment = {
+		name="1st Antalya Artillery"
+		type=artillery
+		home=875
+	}
+}
+
+navy = {
+	name="Karadeniz Donanmasî"
+	location=2774
+	ship = {
+		name="1st Kirklareli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Burgas Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Sugla Donanmasî"
+	location=2765
+	ship = {
+		name="2nd Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Giresun Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Kocaeli Donanmasî"
+	location=2764
+	ship = {
+		name="4th Venice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Dumyat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Benghazi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ventspils Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bolu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Annapolis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Udine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Heligoland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Annapolis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Udine Clipper Transport"
+		type=clipper_transport
+	}
+}
+

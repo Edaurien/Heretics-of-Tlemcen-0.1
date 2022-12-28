@@ -1,0 +1,8 @@
+owner=HSC
+controller=HSC
+add_core=HSC
+add_core=ICL
+add_core=SCA
+trade_goods = wool
+life_rating = 30
+terrain = small_island

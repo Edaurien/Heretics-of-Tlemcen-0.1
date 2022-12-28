@@ -1,0 +1,6 @@
+owner=SHY
+controller=SHY
+add_core=NOG
+add_core=SHY
+trade_goods = opium
+life_rating = 30

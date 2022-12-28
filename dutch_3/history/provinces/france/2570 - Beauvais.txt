@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=CPG
+add_core=FRA
+add_core=ORL
+add_core=PIC
+trade_goods = grain
+life_rating = 31

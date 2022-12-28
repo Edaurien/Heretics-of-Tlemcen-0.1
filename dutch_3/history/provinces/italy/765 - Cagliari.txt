@@ -1,0 +1,7 @@
+owner=IBR
+controller=IBR
+add_core=ITA
+add_core=SIC
+add_core=SRD
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,22 @@
+name = "Mongol-Japanese war over control of Korea"
+
+1820.10.2 = {
+    add_attacker = KHA
+	add_attacker = KOR
+    add_defender = JAP
+
+
+    war_goal = {
+        casus_belli = conquest
+        actor = JAP
+        receiver = KOR
+    }
+
+
+    war_goal = {
+        casus_belli = liberate_country
+        actor = KHA
+        receiver = JAP
+		country = KOR
+    }
+

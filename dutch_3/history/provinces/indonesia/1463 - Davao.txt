@@ -1,0 +1,6 @@
+owner=TDO
+controller=TDO
+add_core=SUL
+add_core=TDO
+trade_goods = iron
+life_rating = 35

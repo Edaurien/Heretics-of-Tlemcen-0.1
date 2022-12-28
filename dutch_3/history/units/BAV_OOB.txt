@@ -1,0 +1,325 @@
+#Sphere of Influence
+AUS = {
+	value = 50
+	level = 5
+}
+BAD = {
+	value = 76
+	level = 5
+}
+CIL = {
+	value = 76
+	level = 5
+}
+FER = {
+	value = 50
+	level = 5
+}
+HUN = {
+	value = 50
+	level = 4
+}
+LOM = {
+	value = 76
+	level = 5
+}
+PAR = {
+	value = 65
+	level = 5
+}
+STY = {
+	value = 65
+	level = 5
+}
+VEN = {
+	value = 76
+	level = 5
+}
+WUR = {
+	value = 42
+	level = 5
+}
+
+TTL = {
+	value = 42
+	level = 5
+}
+
+X02 = {
+	value = 79
+	influence_value = 7
+	level = 5
+}
+
+X16 = {
+	value = 76
+	level = 5
+}
+
+#Leaders
+
+leader = {
+	name="Xaver Detmold"
+	date="1784.9.12"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Hieronymus Oldenburg"
+	date="1806.4.13"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Heinrich Hildesheim"
+	date="1806.4.18"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Thomas Werden"
+	date="1806.4.20"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+
+
+army = {
+	name="Armee von Jülich"
+	location=574
+	regiment = {
+		name="2nd Mannheim Infantry"
+		type=infantry
+		home=574
+	}
+	regiment = {
+		name="1st Karlsruhe Infantry"
+		type=infantry
+		home=570
+	}
+	regiment = {
+		name="2nd Munich Infantry"
+		type=infantry
+		home=572
+	}
+	regiment = {
+		name="6th Fulda Infantry"
+		type=infantry
+		home=573
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=571
+	}
+	regiment = {
+		name="1st Brunswick Artillery"
+		type=artillery
+		home=571
+	}
+	regiment = {
+		name="1st Strasbourg Artillery"
+		type=artillery
+		home=571
+	}
+	regiment = {
+		name="1st Münster Artillery"
+		type=artillery
+		home=571
+	}
+	regiment = {
+		name="2nd Fulda Artillery"
+		type=artillery
+		home=409
+	}
+	regiment = {
+		name="1st Mannheim Artillery"
+		type=artillery
+		home=409
+	}
+	regiment = {
+		name="3rd Fulda Artillery"
+		type=artillery
+		home=410
+	}
+	regiment = {
+		name="2nd Bielefeld Artillery"
+		type=artillery
+		home=410
+	}
+}
+
+army = {
+	name="Armee von Pfalz"
+	location=602
+	regiment = {
+		name="2nd Koblenz Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="1st Frankfurt Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="1st Cleves Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="2nd Cleves Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="3rd Fulda Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Darmstadt Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Frankfurt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="2nd Frankfurt Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="1st Kassel Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=612
+	}
+	regiment = {
+		name="1st Augsburg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="1st Darmstadt Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=596
+	}
+}
+
+army = {
+	name="1st Army"
+	location=597
+	regiment = {
+		name="7th Fulda Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Bayreuth Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Hanover Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Siegen Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Colmar Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="2nd Strasbourg Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="1st Nienburg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="3rd Augsburg Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Kaiserslautern Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="2nd Siegen Artillery"
+		type=artillery
+		home=612
+	}
+}
+
+army = {
+	name="Armee von Pfalz"
+	location=592
+	regiment = {
+		name="2nd Koblenz Infantry"
+		type=infantry
+		home=592
+	}
+	regiment = {
+		name="1st Frankfurt Infantry"
+		type=infantry
+		home=734
+	}
+	regiment = {
+		name="1st Cleves Infantry"
+		type=infantry
+		home=734
+	}
+	regiment = {
+		name="2nd Cleves Infantry"
+		type=infantry
+		home=588
+	}
+	regiment = {
+		name="3rd Fulda Infantry"
+		type=infantry
+		home=587
+	}
+	regiment = {
+		name="1st Darmstadt Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="1st Frankfurt Artillery"
+		type=artillery
+		home=604
+	}
+}

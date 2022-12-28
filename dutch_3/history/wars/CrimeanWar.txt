@@ -1,0 +1,26 @@
+name = "Crimean Revolt"
+
+1820.10.2 = {
+    add_attacker = TUR
+    add_defender = CRI
+
+
+    war_goal = {
+        casus_belli = make_puppet
+        actor = TUR
+        receiver = CRI
+    }
+
+
+    war_goal = {
+        casus_belli = become_independent
+        actor = CRI
+        receiver = TUR
+    }
+
+}
+
+1820.6.6 = {
+    rem_attacker = TUR
+    rem_defender = CRI
+}

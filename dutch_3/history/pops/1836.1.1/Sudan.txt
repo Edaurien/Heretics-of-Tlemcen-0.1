@@ -1,0 +1,1602 @@
+1739 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 25
+	}
+
+	officers=
+	{
+		culture = fur
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size= 500
+	}
+
+	slaves=
+	{
+		culture = fur
+		religion = animist
+		size= 200
+	}
+
+}
+1806 = {
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 522
+	}
+
+}
+1827 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 25888
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 2405
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 3437
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 644
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 181
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 2165
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 51111
+	}
+
+}
+1828 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 10838
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 4690
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 17044
+	}
+
+}
+1829 = {
+	slaves=
+	{
+		culture = beja
+		religion = sunni
+		size= 8594
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = sunni
+		size= 1203
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = sunni
+		size= 8419
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = sunni
+		size= 451
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = sunni
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = sunni
+		size= 1010
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = sunni
+		size= 40379
+	}
+
+}
+1830 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 1959
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 392
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 3531
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 294
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 32637
+	}
+
+}
+1831 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 3700
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 1183
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 497
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 22894
+	}
+
+}
+1832 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 3600
+	}
+
+	soldiers=
+	{
+		culture = nuer
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = nuer
+		religion = coptic
+		size= 3250
+	}
+
+	clergymen=
+	{
+		culture = nuer
+		religion = coptic
+		size= 271
+	}
+
+	bureaucrats=
+	{
+		culture = nuer
+		religion = coptic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = nuer
+		religion = coptic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = nuer
+		religion = coptic
+		size= 303
+	}
+
+	farmers=
+	{
+		culture = nuer
+		religion = coptic
+		size= 27608
+	}
+
+}
+1833 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = coptic
+		size= 1941
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 582
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 10748
+	}
+
+}
+1834 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 10217
+	}
+
+}
+1835 = {
+	slaves=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 2655
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 1673
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 13587
+	}
+
+}
+1836 = {
+	soldiers=
+	{
+		culture = beja
+		religion = sunni
+		size= 312
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = sunni
+		size= 2181
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = sunni
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = sunni
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = sunni
+		size= 12684
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 793
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 4613
+	}
+
+}
+1837 = {
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 894
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 7731
+	}
+
+}
+1838 = {
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 500
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 23900
+	}
+
+	slaves=
+	{
+		culture = sudanese
+		religion = animist
+		size= 50000
+	}
+
+}
+1839 = {
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dinka
+		religion = animist
+		size= 475
+	}
+
+	artisans=
+	{
+		culture = dinka
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = dinka
+		religion = animist
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = dinka
+		religion = animist
+		size= 24900
+	}
+
+	slaves=
+	{
+		culture = nilotic
+		religion = animist
+		size= 15000
+	}
+
+}
+1840 = {
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 10000
+	}
+
+	aristocrats=
+	{
+		culture = nuba
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = nuba
+		religion = animist
+		size= 725
+	}
+
+	soldiers=
+	{
+		culture = nuba
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = nuba
+		religion = animist
+		size= 16650
+	}
+
+	slaves=
+	{
+		culture = nuba
+		religion = animist
+		size= 10000
+	}
+
+	aristocrats=
+	{
+		culture = luo
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = animist
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 14775
+	}
+
+}
+1841 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 1200
+	}
+
+	bureaucrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 100
+	}
+
+	officers=
+	{
+		culture = fur
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size= 2600
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size= 58600
+	}
+
+	slaves=
+	{
+		culture = teda
+		religion = sunni
+		size= 4000
+	}
+
+}
+1842 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size= 32300
+	}
+
+	slaves=
+	{
+		culture = teda
+		religion = sunni
+		size= 10400
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 3650
+	}
+
+}
+1843 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size= 6350
+	}
+
+	aristocrats=
+	{
+		culture = ubangian
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ubangian
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = ubangian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = ubangian
+		religion = animist
+		size= 5525
+	}
+
+	slaves=
+	{
+		culture = ubangian
+		religion = animist
+		size= 4000
+	}
+
+	aristocrats=
+	{
+		culture = nuba
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = nuba
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = nuba
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = nuba
+		religion = animist
+		size= 10150
+	}
+
+	slaves=
+	{
+		culture = nuba
+		religion = animist
+		size= 7000
+	}
+
+}
+1844 = {
+	aristocrats=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = sunni
+		size= 2700
+	}
+
+	aristocrats=
+	{
+		culture = dinka
+		religion = animist
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = dinka
+		religion = animist
+		size= 850
+	}
+
+	soldiers=
+	{
+		culture = dinka
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = dinka
+		religion = animist
+		size= 15650
+	}
+
+	aristocrats=
+	{
+		culture = nuer
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = nuer
+		religion = animist
+		size= 1950
+	}
+
+	soldiers=
+	{
+		culture = nuer
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = nuer
+		religion = animist
+		size= 35900
+	}
+
+	aristocrats=
+	{
+		culture = luo
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = animist
+		size= 675
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 15775
+	}
+
+	slaves=
+	{
+		culture = nilotic
+		religion = animist
+		size= 10000
+	}
+
+}
+1845 = {
+	aristocrats=
+	{
+		culture = fur
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = fur
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = fur
+		religion = sunni
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = fur
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = fur
+		religion = sunni
+		size= 3650
+	}
+
+	aristocrats=
+	{
+		culture = azande
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = azande
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = azande
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = azande
+		religion = animist
+		size= 21100
+	}
+
+	slaves=
+	{
+		culture = azande
+		religion = animist
+		size= 8000
+	}
+
+	slaves=
+	{
+		culture = luo
+		religion = animist
+		size= 4000
+	}
+
+}
+1846 = {
+	aristocrats=
+	{
+		culture = azande
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = azande
+		religion = animist
+		size= 1200
+	}
+
+	soldiers=
+	{
+		culture = azande
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = azande
+		religion = animist
+		size= 22100
+	}
+
+	aristocrats=
+	{
+		culture = nuer
+		religion = animist
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = nuer
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = nuer
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = nuer
+		religion = animist
+		size= 16575
+	}
+
+	aristocrats=
+	{
+		culture = luo
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = nilotic
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 16550
+	}
+
+	slaves=
+	{
+		culture = nilotic
+		religion = animist
+		size= 1100
+	}
+
+}
+1847 = {
+	aristocrats=
+	{
+		culture = luo
+		religion = animist
+		size= 525
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = animist
+		size= 1400
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 25800
+	}
+
+	aristocrats=
+	{
+		culture = nilotic
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = luo
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = animist
+		size= 6475
+	}
+
+	slaves=
+	{
+		culture = nilotic
+		religion = animist
+		size= 1100
+	}
+
+}
+2564 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1100
+	}
+
+}

@@ -1,0 +1,14 @@
+owner=LOR
+controller=LOR
+add_core=LOR
+add_core=GER
+add_core=FRA
+add_core=TIR
+trade_goods = sulphur
+life_rating = 31
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

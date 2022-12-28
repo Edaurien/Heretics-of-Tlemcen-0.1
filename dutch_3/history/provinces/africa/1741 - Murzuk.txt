@@ -1,0 +1,5 @@
+owner=FZN
+controller=FZN
+add_core=FZN
+trade_goods = fruit
+life_rating = 10

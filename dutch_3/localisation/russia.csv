@@ -1,0 +1,210 @@
+MUS;Muscovy;x;;;;;;;;;;;;
+MUS_democracy;Muscovite Republic;x;;;;;;;;;;;;
+MUS_theocracy;Muscovite Republic;x;;;;;;;;;;;;
+MUS_presidential_dictatorship;Muscovite Republic;x;;;;;;;;;;;;
+MUS_bourgeois_dictatorship;Muscovite Republic;x;;;;;;;;;;;;
+MUS_proletarian_dictatorship;Soviet Union;x;;;;;;;;;;;;
+MUS_fascist_dictatorship;Federal Muscovite Republic;x;;;;;;;;;;;;
+MUS_absolute_monarchy;Muscovy;x;;;;;;;;;;;;
+MUS_prussian_constitutionalism;Muscovy;x;;;;;;;;;;;;
+MUS_hms_government;Russia;x;;;;;;;;;;;;
+MUS_ADJ_democracy;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ_presidential_dictatorship;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ_bourgeois_dictatorship;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ_proletarian_dictatorship;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ_fascist_dictatorship;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ_theocracy;Muscovite;x;;;;;;;;;;;;
+MUS_ADJ;Muscovite;x;;;;;;;;;;;;
+TLC;Tlemcen;x;;;;;;;;;;;;
+TLC_democracy;Tlemcen;x;;;;;;;;;;;;
+TLC_theocracy;Tlemcen;x;;;;;;;;;;;;
+TLC_presidential_dictatorship;Tlemcen;x;;;;;;;;;;;;
+TLC_bourgeois_dictatorship;Tlemcen;x;;;;;;;;;;;;
+TLC_proletarian_dictatorship;Tlemcen;x;;;;;;;;;;;;
+TLC_fascist_dictatorship;Tlemcen;x;;;;;;;;;;;;
+TLC_absolute_monarchy;Tlemcen;x;;;;;;;;;;;;
+TLC_prussian_constitutionalism;Tlemcen;x;;;;;;;;;;;;
+TLC_hms_government;Tlemcen;x;;;;;;;;;;;;
+TLC_ADJ_democracy;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ_presidential_dictatorship;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ_bourgeois_dictatorship;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ_proletarian_dictatorship;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ_fascist_dictatorship;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ_theocracy;Tlemceni;x;;;;;;;;;;;;
+TLC_ADJ;Tlemceni;x;;;;;;;;;;;;
+BRN;Brandenburg;x;;;;;;;;;;;;
+BRN_democracy;Brandenburg;x;;;;;;;;;;;;
+BRN_theocracy;Brandenburg;x;;;;;;;;;;;;
+BRN_presidential_dictatorship;Brandenburg;x;;;;;;;;;;;;
+BRN_bourgeois_dictatorship;Brandenburg;x;;;;;;;;;;;;
+BRN_proletarian_dictatorship;Brandenburg;x;;;;;;;;;;;;
+BRN_fascist_dictatorship;Brandenburg;x;;;;;;;;;;;;
+BRN_absolute_monarchy;Brandenburg;x;;;;;;;;;;;;
+BRN_prussian_constitutionalism;Brandenburg;x;;;;;;;;;;;;
+BRN_hms_government;Brandenburg;x;;;;;;;;;;;;
+BRN_ADJ_democracy;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ_presidential_dictatorship;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ_bourgeois_dictatorship;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ_proletarian_dictatorship;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ_fascist_dictatorship;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ_theocracy;Brandenburgian;x;;;;;;;;;;;;
+BRN_ADJ;Brandenburgian;x;;;;;;;;;;;;
+STY;Brandenburg;x;;;;;;;;;;;;
+STY_democracy;Styria;x;;;;;;;;;;;;
+STY_theocracy;Styria;x;;;;;;;;;;;;
+STY_presidential_dictatorship;Styria;x;;;;;;;;;;;;
+STY_bourgeois_dictatorship;Styria;x;;;;;;;;;;;;
+STY_proletarian_dictatorship;Styria;x;;;;;;;;;;;;
+STY_fascist_dictatorship;Styria;x;;;;;;;;;;;;
+STY_absolute_monarchy;Styria;x;;;;;;;;;;;;
+STY_prussian_constitutionalism;Styria;x;;;;;;;;;;;;
+STY_hms_government;Styria;x;;;;;;;;;;;;
+STY_ADJ_democracy;Styrian;x;;;;;;;;;;;;
+STY_ADJ_presidential_dictatorship;Styrian;x;;;;;;;;;;;;
+STY_ADJ_bourgeois_dictatorship;Styrian;x;;;;;;;;;;;;
+STY_ADJ_proletarian_dictatorship;Styrian;x;;;;;;;;;;;;
+STY_ADJ_fascist_dictatorship;Styrian;x;;;;;;;;;;;;
+STY_ADJ_theocracy;Styrian;x;;;;;;;;;;;;
+STY_ADJ;Styrian;x;;;;;;;;;;;;
+RUS_absolute_monarchy;The Russian Empire2;Empire russe;Russisches Zarenreich;;El Imperio Ruso;;;;;;;;;x
+RUS_prussian_constitutionalism;The Russian Empire2;Empire russe;Russisches Zarenreich;;El Imperio Ruso;;;;;;;;;x
+SMK;Smolensk;x;;;;;;;;;;;;
+SMK_democracy;Smolensk;x;;;;;;;;;;;;
+SMK_theocracy;Smolensk;x;;;;;;;;;;;;
+SMK_presidential_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_bourgeois_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_proletarian_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_fascist_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_absolute_monarchy;Smolensk;x;;;;;;;;;;;;
+SMK_prussian_constitutionalism;Smolensk;x;;;;;;;;;;;;
+SMK_hms_government;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_democracy;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_presidential_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_bourgeois_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_proletarian_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_fascist_dictatorship;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ_theocracy;Smolensk;x;;;;;;;;;;;;
+SMK_ADJ;Smolensk;x;;;;;;;;;;;;
+HUN_ADJ;Hungarian;;;;;;;;;;;;;x;
+HUN;Hungary;;;;;;;;;;;;;x;
+HUN_proletarian_dictatorship;The Hungarian Soviet Republic;;;;;;;;;;;;;x;
+HUN_presidential_dictatorship;The Democratic Popular Republic of Hungary;;;;;;;;;;;;;x;
+HUN_fascist_dictatorship;Magyar State;;;;;;;;;;;;;x;
+HUN_absolute_monarchy;The Kingdom of Hungary;;;;;;;;;;;;;x;
+HUN_prussian_constitutionalism;The Lands of The Hungarian Crown;;;;;;;;;;;;;x;
+HUN_hms_government;Hungary;;;;;;;;;;;;;x;
+HUN_democracy;Republic of Hungary;;;;;;;;;;;;;x;
+TFL;Tafilalt;Tafilalet;Tafilalet;Tafilalt;Tafilalet;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;x
+TFL_ADJ;Tafilalti;filalie;Tafilaletisch;Tafilalti;tafilaletí;Tafilalti;Tafilalti;Tafilalti;Tafilalti;Tafilalti;Tafilalti;Tafilalti;Tafilalti;x
+TFL_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+TFL_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+TFL_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+TFL_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+TFL_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+TFL_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+TFL_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+MRK;Marrakesh;Marrakech;Marrakesch;Marrakesh;Marrakech;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;x
+MRK_ADJ;Marrakesh;marrakéchoise;Marrakeschisch;Marrakesh;marrakechí;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;x
+MRK_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+MRK_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+MRK_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+MRK_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+MRK_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+MRK_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+MRK_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+X16;Trent;Trente;Trent;Trent;Trento;Trent;Trent;Trent;Trent;Trent;Trent;Trent;Trent;x
+X16_ADJ;Trentan;tridentine;Trentisch;Trentan;trentino;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;x
+X16_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+X16_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+X16_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+X16_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+X16_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+X16_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+X16_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+THR;Tahirids;x;;;;;;;;;;;;
+THR_democracy;Tahirids;x;;;;;;;;;;;;
+THR_theocracy;Tahirids;x;;;;;;;;;;;;
+THR_presidential_dictatorship;Tahirids;x;;;;;;;;;;;;
+THR_bourgeois_dictatorship;Tahirids;x;;;;;;;;;;;;
+THR_proletarian_dictatorship;Tahirids;x;;;;;;;;;;;;
+THR_fascist_dictatorship;Tahirids;x;;;;;;;;;;;;
+THR_absolute_monarchy;Tahirids;x;;;;;;;;;;;;
+THR_prussian_constitutionalism;Tahirids;x;;;;;;;;;;;;
+THR_hms_government;Tahirids;x;;;;;;;;;;;;
+THR_ADJ_democracy;Tahirid;x;;;;;;;;;;;;
+THR_ADJ_presidential_dictatorship;Tahirid;x;;;;;;;;;;;;
+THR_ADJ_bourgeois_dictatorship;Tahirid;x;;;;;;;;;;;;
+THR_ADJ_proletarian_dictatorship;Tahirid;x;;;;;;;;;;;;
+THR_ADJ_fascist_dictatorship;Tahirid;x;;;;;;;;;;;;
+THR_ADJ_theocracy;Tahirid;x;;;;;;;;;;;;
+THR_ADJ;Tahirid;x;;;;;;;;;;;;
+THR_anarcho_liberal;Radical Party;x;;;;;;;;;;;;
+THR_communist;Communist Party;x;;;;;;;;;;;;
+THR_conservative;Conservative Party;x;;;;;;;;;;;;
+THR_fascist;Fascist Party;x;;;;;;;;;;;;
+THR_liberal;Liberal Party;x;;;;;;;;;;;;
+THR_reactionary;National Party;x;;;;;;;;;;;;
+THR_socialist;Socialist Party;x;;;;;;;;;;;;
+PLG;Portoalegre;x;;;;;;;;;;;;
+PLG_democracy;Portoalegre;x;;;;;;;;;;;;
+PLG_theocracy;Portoalegre;x;;;;;;;;;;;;
+PLG_presidential_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_bourgeois_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_proletarian_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_fascist_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_absolute_monarchy;Portoalegre;x;;;;;;;;;;;;
+PLG_prussian_constitutionalism;Portoalegre;x;;;;;;;;;;;;
+PLG_hms_government;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_democracy;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_presidential_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_bourgeois_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_proletarian_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_fascist_dictatorship;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ_theocracy;Portoalegre;x;;;;;;;;;;;;
+PLG_ADJ;Portoalegre;x;;;;;;;;;;;;
+RNB_ADJ;Rooinek ;Rooinek ;Rooinek ;;;;;;;;;;;x;
+RNB;Rooinekia;Rooinekia;Rooinekia;;;;;;;;;;;x;
+RNB_proletarian_dictatorship;Rooinek Republic;Rooinek Republic;Rooinek Republic;;;;;;;;;;;x;
+RNB_presidential_dictatorship;Rooinek Republic;Rooinek Republic;Rooinek Republic;;;;;;;;;;;x;
+RNB_bourgeois_dictatorship;Rooinek Republic;Rooinek Republic;Rooinek Republic;;;;;;;;;;;x;
+RNB_fascist_dictatorship;Rooinek Republic;Rooinek Republic;Rooinek Republic;;;;;;;;;;;x;
+RNB_absolute_monarchy;Rooinek Kingdom;Rooinek Kingdom;Rooinek Kingdom;;;;;;;;;;;x;
+RNB_prussian_constitutionalism;Rooinek Kingdom;Rooinek Kingdom;Rooinek Kingdom;;;;;;;;;;;x;
+RNB_hms_government;Rooinek Kingdom;Rooinek Kingdom;Rooinek Kingdom;;;;;;;;;;;x;
+RNB_democracy;Cape Republic;Cape Republic;Cape Republic;;;;;;;;;;;x;
+RNB_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+RNB_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+RNB_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+RNB_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+RNB_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+RNB_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+RNB_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+RNB_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+RNB_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+X12;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;Beloozero;x
+X12_ADJ;Beloozeroan;béloozérienne;Beloozerisch;Beloozeroan;beloozeriano;Beloozeroan;Beloozeroan;Beloozeroan;Beloozeroan;Beloozeroan;Beloozeroan;Beloozeroan;Beloozeroan;x
+X12_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+X12_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+X12_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+X12_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+X12_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+X12_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+X12_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+X18;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;x
+X18_ADJ;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;The Penobscot Federation;x
+X18_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+X18_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+X18_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+X18_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+X18_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+X18_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+X18_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+X17;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;x
+X17_ADJ;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;The Anilco Federation;x
+X17_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
+X17_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+X17_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+X17_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+X17_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+X17_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+X17_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x

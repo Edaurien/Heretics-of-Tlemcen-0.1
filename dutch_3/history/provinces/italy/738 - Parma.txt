@@ -1,0 +1,8 @@
+owner=PAR
+controller=PAR
+add_core=PAR
+add_core=ITA
+add_core=MTA
+trade_goods = iron
+life_rating = 35
+fort = 1

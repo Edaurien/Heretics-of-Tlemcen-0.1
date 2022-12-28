@@ -1,0 +1,6 @@
+owner=HMI
+controller=HMI
+
+add_core=YRK
+trade_goods = sulphur
+life_rating = 32

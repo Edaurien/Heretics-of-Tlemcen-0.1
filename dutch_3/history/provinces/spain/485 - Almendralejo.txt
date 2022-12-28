@@ -1,0 +1,7 @@
+owner=IBR
+controller=IBR
+add_core=SPA
+add_core=IBR
+add_core=X03
+trade_goods = wool
+life_rating = 35

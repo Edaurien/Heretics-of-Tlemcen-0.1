@@ -1,0 +1,30 @@
+name = "Moldavian Revolt"
+
+1820.10.2 = {
+    add_attacker = TUR
+    add_defender = WAL
+
+    # actor
+    # receiver
+    # casus_belli - cb type
+    # country - 3rd party
+    # state_province_id - target state capital
+    war_goal = {
+        casus_belli = make_puppet
+        actor = TUR
+        receiver = WAL
+    }
+
+
+    war_goal = {
+        casus_belli = become_independent
+        actor = WAL
+        receiver = TUR
+    }
+
+}
+
+1820.6.6 = {
+    rem_attacker = TUR
+    rem_defender = WAL
+}

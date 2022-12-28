@@ -1,0 +1,414 @@
+#Sphere of Influence
+
+DON = {
+	value = -150
+	influence_value = 0
+	level = 2
+}
+HUN = {
+	value = 50
+	level = 4
+}
+ROM = {
+	value = 50
+	level = 4
+}
+SMK = {
+	value = -150
+	influence_value = 0
+	level = 2
+}
+TEU = {
+	value = -150
+	influence_value = 0
+	level = 2
+}
+
+
+#Leaders
+leader = {
+	name="Marijus Soltyk"
+	date="1807.10.9"
+	type=land
+	personality="coward"
+	background="armchair_general"
+}
+
+leader = {
+	name="Michal II"
+	date="1808.11.22"
+	type=land
+	personality="craven"
+	background="generals_aide"
+}
+
+leader = {
+	name="Olbracht Drzewicki"
+	date="1811.8.17"
+	type=sea
+	personality="deeply_religious"
+	background="madman"
+}
+
+leader = {
+	name="Svitrigaila Kwilecki"
+	date="1812.1.19"
+	type=land
+	personality="bastard"
+	background="butcher"
+}
+
+leader = {
+	name="Jan Morsztyn"
+	date="1814.6.19"
+	type=land
+	personality="inefficient"
+	background="debutante"
+}
+
+leader = {
+	name="Sylwester Puzyna"
+	date="1817.7.24"
+	type=sea
+	personality="strange"
+	background="politician"
+}
+
+leader = {
+	name="Skirgaila Gembicki"
+	date="1817.12.19"
+	type=land
+	personality="wretched"
+	background="professor"
+}
+
+
+#Armies
+army = {
+	name="Armia z Lipsk"
+	location=997
+	regiment = {
+		name="1st Polotsk Infantry"
+		type=infantry
+		home=946
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Königsberg Artillery"
+		type=artillery
+		home=695
+	}
+	regiment = {
+		name="1st Slutsk Artillery"
+		type=artillery
+		home=941
+	}
+	regiment = {
+		name="1st Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+}
+
+
+
+
+
+army = {
+	name="11th Army"
+	location=710
+	regiment = {
+		name="1st Minsk Infantry"
+		type=infantry
+		home=718
+	}
+	regiment = {
+		name="1st Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="1st Lodz Cavalry"
+		type=cavalry
+		home=712
+	}
+	regiment = {
+		name="1st Torun Cavalry"
+		type=cavalry
+		home=694
+	}
+	regiment = {
+		name="1st Nitra Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="1st Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="2nd Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="1st Tarnow Artillery"
+		type=artillery
+		home=714
+	}
+	regiment = {
+		name="1st Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="1st Banská Bystrica Cavalry"
+		type=cavalry
+		home=636
+	}
+	regiment = {
+		name="2nd Torun Cavalry"
+		type=cavalry
+		home=694
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=940
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="4th Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+}
+
+army = {
+	name="Armia z Wizna"
+	location=713
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Przemysl Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="2nd Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Bremen Artillery"
+		type=artillery
+		home=539
+	}
+	regiment = {
+		name="1st Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="4th Radom Artillery"
+		type=artillery
+		home=713
+	}
+}
+
+army = {
+	name="Armia z Checiny"
+	location=719
+	regiment = {
+		name="1st Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+	regiment = {
+		name="5th Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="2nd Nitra Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="5th Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+}
+
+
+
+
+
+
+
+army = {
+	name="Armia z Slavonia"
+	location=951
+	regiment = {
+		name="2nd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="2nd Minsk Infantry"
+		type=infantry
+		home=718
+	}
+	regiment = {
+		name="1st Pastavy Artillery"
+		type=artillery
+		home=947
+	}
+}
+
+
+
+army = {
+	name="Armia z Kyzyl-Yar"
+	location=719
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="1st Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+	regiment = {
+		name="2nd Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+}
+
+
+
+army = {
+	name="Armia z Circassia"
+	location=364
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="1st Bielsko Artillery"
+		type=artillery
+		home=2584
+	}
+	regiment = {
+		name="1st Halle Artillery"
+		type=artillery
+		home=556
+	}
+	regiment = {
+		name="2nd Radom Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="3rd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="2nd Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="1st Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="2nd Lodz Artillery"
+		type=artillery
+		home=712
+	}
+}
+
+
+navy = {
+	name="7th Fleet"
+	location=365
+	ship = {
+		name="1st Ventspils Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melbourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ribe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Coruña Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stralsund Frigate"
+		type=frigate
+	}
+}
+
+
+
+
+
+
+
+
+

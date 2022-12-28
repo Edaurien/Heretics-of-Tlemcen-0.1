@@ -1,0 +1,729 @@
+#Sphere of Influence
+
+AAC = {
+	value = 132
+	influence_value = 20
+	level = 3
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ALQ = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 213
+	influence_value = 40
+	level = 4
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BAU = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BLM = {
+	value = 43
+	level = 2
+}
+BNJ = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BRT = {
+	value = 39
+	level = 2
+}
+BRU = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 9
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLG = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 154
+	military_access = yes
+	influence_value = 76
+	level = 0
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CYN = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ECU = {
+	value = -31
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 50
+	level = 5
+}
+GRH = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = -23
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HMI = {
+	value = 0
+	level = 2
+}
+HSC = {
+	value = 35
+	level = 2
+}
+HUN = {
+	value = 120
+	influence_value = 0
+	level = 4
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KMK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSK = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = -2
+	level = 2
+}
+LOU = {
+	value = -8
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MBZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MJP = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MMI = {
+	value = -11
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+NAK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+NET = {
+	value = -105
+	level = 2
+}
+NHY = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = -5
+	level = 2
+}
+NOV = {
+	value = -10
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+OJI = {
+	value = 0
+	level = 2
+}
+OTT = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 37
+	level = 2
+}
+PLB = {
+	value = 49
+	level = 2
+}
+PLC = {
+	value = -1
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 49
+	level = 2
+}
+SAL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SCA = {
+	value = 193
+	influence_value = 35
+	level = 4
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 1
+	level = 2
+}
+SRD = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SUN = {
+	value = 43
+	level = 2
+}
+SVY = {
+	value = 43
+	influence_value = 55
+	level = 4
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = -88
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TVE = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = -44
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = -25
+	level = 2
+}
+WAD = {
+	value = 0
+	level = 2
+}
+WCY = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = -6
+	level = 2
+}
+WHA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X00 = {
+	value = 193
+	influence_value = 35
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Robert de Rochechouart"
+	date="1799.2.14"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Jean de la Bretonnière"
+	date="1805.3.22"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Georges de Crussol"
+	date="1812.10.25"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Louis-François de La Galissonière"
+	date="1815.2.22"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="François I"
+	date="1819.2.21"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+
+#Armies
+navy = {
+	name="7th Fleet"
+	location=458
+	ship = {
+		name="Alexandre"
+		type=manowar
+	}
+	ship = {
+		name="Prince Jérôme"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armée d'Italie"
+	location=466
+	regiment = {
+		name="1st Orléans Infantry"
+		type=infantry
+		home=438
+	}
+}
+
+army = {
+	name="Armée des Alpes"
+	location=453
+	regiment = {
+		name="1st Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="1st Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+	regiment = {
+		name="1st La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="1st Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+	regiment = {
+		name="1st Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Tulle Artillery"
+		type=artillery
+		home=447
+	}
+	regiment = {
+		name="1st Avignon Infantry"
+		type=infantry
+		home=468
+	}
+	regiment = {
+		name="3rd Paris Artillery"
+		type=artillery
+		home=425
+	}
+}
+
+army = {
+	name="Armée du Jura"
+	location=438
+	regiment = {
+		name="2nd La Roche Infantry"
+		type=infantry
+		home=437
+	}
+	regiment = {
+		name="1st Tours Infantry"
+		type=infantry
+		home=441
+	}
+	regiment = {
+		name="2nd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Orléans Artillery"
+		type=artillery
+		home=438
+	}
+}
+
+navy = {
+	name="Escadre de l'Atlantique"
+	location=2920
+	ship = {
+		name="Breslaw"
+		type=manowar
+	}
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Roche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Koepang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Dionysius Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+}
+

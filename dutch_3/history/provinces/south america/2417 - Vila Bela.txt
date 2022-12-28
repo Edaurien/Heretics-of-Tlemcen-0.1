@@ -1,0 +1,6 @@
+owner=TPQ
+controller=TPQ
+add_core=TPQ
+add_core=TPQ
+trade_goods = fruit
+life_rating = 31

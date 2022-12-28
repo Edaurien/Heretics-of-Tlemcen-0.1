@@ -1,0 +1,7 @@
+owner=NEV
+controller=BOU
+add_core=BOU
+add_core=FRA
+add_core=NEV
+trade_goods = coal
+life_rating = 31

@@ -1,0 +1,449 @@
+#Sphere of Influence
+
+
+
+#Leaders
+leader = {
+	name="Darwish Qutlugh Vachir"
+	date="1788.11.18"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ibak I Timurid"
+	date="1812.12.19"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Yadigar Muhammad Nasange"
+	date="1798.6.8"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Shadi Beg Boke Temur"
+	date="1802.1.27"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Farrukh-siyar Timurid"
+	date="1812.12.21"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Agalak Bayangge"
+	date="1820.1.4"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Karim Berdi Delger Bayar"
+	date="1820.7.25"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1037
+	regiment = {
+		name="1st Syzran Irregulars"
+		type=irregular
+		home=1035
+	}
+	regiment = {
+		name="1st Voronezh Irregulars"
+		type=irregular
+		home=1019
+	}
+	regiment = {
+		name="1st Saratov Irregulars"
+		type=irregular
+		home=1037
+	}
+	regiment = {
+		name="1st Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="2nd Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="1st Guryev Artillery"
+		type=artillery
+		home=1182
+	}
+	regiment = {
+		name="1st Voronezh Artillery"
+		type=artillery
+		home=1019
+	}
+	regiment = {
+		name="1st Tsaritsyn Artillery"
+		type=artillery
+		home=1039
+	}
+	regiment = {
+		name="2nd Saratov Irregulars"
+		type=irregular
+		home=1037
+	}
+	regiment = {
+		name="1st Kazan Irregulars"
+		type=irregular
+		home=1030
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Irregulars"
+		type=irregular
+		home=1020
+	}
+	regiment = {
+		name="3rd Orel Cavalry"
+		type=cavalry
+		home=1017
+	}
+	regiment = {
+		name="2nd Voronezh Artillery"
+		type=artillery
+		home=1019
+	}
+	regiment = {
+		name="2nd Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+}
+
+army = {
+	name="9th Army"
+	location=980
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=978
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1018
+	}
+	regiment = {
+		name="1st Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=980
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=978
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1018
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1039
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1038
+	}
+	
+	
+	
+}
+
+army = {
+	name="2nd Army"
+	location=1034
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1019
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1034
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1043
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1035
+	}
+	
+	
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1035
+	}
+	regiment = {
+		name="1st Glasov Cavalry"
+		type=cavalry
+		home=1029
+	}
+	regiment = {
+		name="1st Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+	regiment = {
+		name="1st Glasov Cavalry"
+		type=cavalry
+		home=1031
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1036
+	regiment = {
+		name="1st Astrakhan Irregulars"
+		type=irregular
+		home=1036
+	}
+	regiment = {
+		name="1st Astrakhan Artillery"
+		type=artillery
+		home=1036
+	}
+	regiment = {
+		name="2nd Astrakhan Irregulars"
+		type=irregular
+		home=1036
+	}
+	regiment = {
+		name="2nd Astrakhan Artillery"
+		type=artillery
+		home=1036
+	}
+}
+
+
+
+army = {
+	name="6th Army"
+	location=1019
+	regiment = {
+		name="2nd Voronezh Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="2nd Voronezh Cavalry"
+		type=cavalry
+		home=1021
+	}
+	regiment = {
+		name="2nd Kazan Artillery"
+		type=artillery
+		home=1045
+	}
+	regiment = {
+		name="2nd Glasov Cavalry"
+		type=cavalry
+		home=1019
+	}
+	regiment = {
+		name="2nd Glasov Artillery"
+		type=artillery
+		home=1021
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Irregulars"
+		type=irregular
+		home=1021
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Irregulars"
+		type=irregular
+		home=1017
+	}
+}
+
+
+army = {
+	name="44th Army"
+	location=1026
+	regiment = {
+		name="1st Nizhni Novgorod Cavalry"
+		type=cavalry
+		home=1020
+	}
+	regiment = {
+		name="1st Chirskaya Cavalry"
+		type=cavalry
+		home=1046
+	}
+}
+
+
+navy = {
+	name="3rd Fleet"
+	location=979
+	ship = {
+		name="2nd Königsberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Königsberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Västerås Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aabenraa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valmiera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmail Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aalborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Åland Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Heligoland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Izmail Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Esbjerg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ribe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Uppsala Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+

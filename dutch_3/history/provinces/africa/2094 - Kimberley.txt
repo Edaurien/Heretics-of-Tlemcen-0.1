@@ -1,0 +1,5 @@
+owner=RNB
+controller=RNB
+add_core = RNB
+trade_goods = grain
+life_rating = 15

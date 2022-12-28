@@ -1,0 +1,7 @@
+owner=MRK
+controller=MRK
+add_core=MRK
+add_core=MOR
+add_core=SOS
+trade_goods = grain
+life_rating = 35

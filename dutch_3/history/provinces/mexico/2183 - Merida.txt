@@ -1,0 +1,7 @@
+owner=CNP
+controller=CNP
+add_core=CHT
+add_core=CNP
+trade_goods = grain
+life_rating = 35
+naval_base = 2

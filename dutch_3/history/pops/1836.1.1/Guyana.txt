@@ -1,0 +1,225 @@
+1979 = {
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 809
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 13578
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 568
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 119
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 801
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 8860
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 91
+	}
+
+	craftsmen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1275
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 59
+	}
+
+	clerks=
+	{
+		culture = antartique
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 12
+	}
+
+	capitalists=
+	{
+		culture = antartique
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 153
+	}
+
+}
